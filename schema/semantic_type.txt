@@ -1,0 +1,135 @@
+UMLS分类
+Activity
+Behavior
+Daily or Recreational Activity
+Event
+Governmental or Regulatory Activity
+Individual Behavior
+Machine Activity
+Occupational Activity
+Social Behavior
+Anatomical Structure
+Body Location or Region
+Body Part, Organ, or Organ Component
+Body Space or Junction
+Body Substance
+Body System
+Cell
+Cell Component
+Embryonic Structure
+Fully Formed Anatomical Structure
+Tissue
+Amino Acid, Peptide, or Protein
+Antibiotic
+Biologically Active Substance
+Biomedical or Dental Material
+Carbohydrate
+Chemical
+Chemical Viewed Functionally
+Chemical Viewed Structurally
+Clinical Drug
+Eicosanoid
+Element, Ion, or Isotope
+Enzyme
+Hazardous or Poisonous Substance
+Hormone
+Immunologic Factor
+Indicator, Reagent, or Diagnostic Aid
+Inorganic Chemical
+Lipid
+Neuroreactive Substance or Biogenic Amine
+Nucleic Acid, Nucleoside, or Nucleotide
+Organic Chemical
+Organophosphorus Compound
+Pharmacologic Substance
+Receptor
+Steroid
+Vitamin
+Classification
+Conceptual Entity
+Functional Concept
+Group Attribute
+Idea or Concept
+Intellectual Product
+Language
+Qualitative Concept
+Quantitative Concept
+Regulation or Law
+Spatial Concept
+Temporal Concept
+Drug Delivery Device
+Medical Device
+Research Device
+Cell or Molecular Dysfunction
+Experimental Model of Disease
+Pathologic Function
+Disease or Syndrome
+Acquired Abnormality
+Anatomical Abnormality
+Congenital Abnormality
+Mental or Behavioral Dysfunction
+Injury or Poisoning
+Finding
+Sign or Symptom
+Neoplastic Process
+Amino Acid Sequence
+Carbohydrate Sequence
+Molecular Sequence
+Nucleotide Sequence
+Gene or Genome
+
+Geographic Area
+Group
+Amphibian
+Animal
+Bird
+Fish
+Mammal
+Reptile
+Vertebrate
+Age Group
+Family Group
+Human
+Patient or Disabled Group
+Population Group
+Professional or Occupational Group
+Archaeon
+Bacterium
+Eukaryote
+Fungus
+Virus
+Organism
+Plant
+Entity
+Food
+Manufactured Object
+Physical Object
+Substance
+Biomedical Occupation or Discipline
+Occupation or Discipline
+Health Care Related Organization
+Organization
+Professional Society
+Self-help or Relief Organization
+Biologic Function
+Environmental Effect of Humans
+Human-caused Phenomenon or Process
+Laboratory or Test Result
+Natural Phenomenon or Process
+Phenomenon or Process
+Clinical Attribute
+Organism Attribute
+Cell Function
+Genetic Function
+Mental Process
+Molecular Function
+Organism Function
+Organ or Tissue Function
+Physiologic Function
+Diagnostic Procedure
+Educational Activity
+Health Care Activity
+Laboratory Procedure
+Molecular Biology Research Technique
+Research Activity
+Therapeutic or Preventive Procedure

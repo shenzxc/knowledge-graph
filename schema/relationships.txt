@@ -1,0 +1,12 @@
+UMLS Semantic Relations
+isa
+interacts_with
+treats
+affects
+diagnoses
+ingredient_of
+causes
+associated_with
+measurement_of
+manifestation_of
+part_of
