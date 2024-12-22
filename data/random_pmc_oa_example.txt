@@ -1,0 +1,1000 @@
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1184.xml
+PMID	33672702
+Co-Cultivation of 
+Mycotoxigenic fungal pathogens
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0165.xml
+PMID	4972264
+The separation of the ribosomal proteins of Streptococcus fecalis by isoelectric focusing. Amino acid composition of the total ribosomal proteins and of an acidic fraction.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0075.xml
+PMID	2258960
+Nonoperative management of blunt liver injuries in adults: the need for continued surveillance.
+Computed tomography (CT) scanning after blunt abdominal trauma has allowed nonoperative management of selected patients with liver injuries. This report describes 52 adult patients with liver injuries who were treated without immediate surgery. Thirty-four of these hepatic injuries were relatively minor (Grade I-II), and 18 were considered major (Grade III-V). Free intraperitoneal blood in small to large amounts was evident on CT in 37 patients. There were no deaths in this series, no major complications, no known missed intra-abdominal injuries, and no delayed hemorrhage. While most liver injuries appear to heal rapidly by serial CT scans, a small percentage of these patients have residual liver defects persisting for several months and may be at risk for future complications.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0846.xml
+PMID	26496163
+Demographically corrected normative data for the Hopkins Verbal Learning Test-Revised and Brief Visuospatial Memory Test-Revised in an elderly sample.
+Demographic variables, such as age, education, and gender, routinely affect performance on neuropsychological tests. Whereas normative data are available to correct for these variables on many tests, data are lacking on the Hopkins Verbal Learning Test-Revised (HVLT-R) and Brief Visuospatial Memory Test-Revised (BVMT-R), especially in the elderly. The current study examined the influence of age, education, and gender on HVLT-R and BVMT-R scores in 290 cognitively intact older adults. Age negatively correlated with nearly every score on the HVLT-R and BVMT-R, and education positively correlated with most scores on these same 2 memory tests. There were fewer gender differences on these tests. Using stepwise multiple regression, HVLT-R and BVMT-R scores were predicted from age, education, and/or gender. When observed scores are compared to these demographically adjusted predicted scores, clinicians can make assumptions about how an individual compared to his/her age-, education-, and gender-matched peers. The current conorming of these 2 memory tests also allows for direct comparison between verbal and visual memory in older patients.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0463.xml
+PMID	14147896
+[ELECTROCARDIOGRAM IN CARCINOMA].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0854.xml
+PMID	26741411
+The psychological impact of genetic information on children: a systematic review.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0833.xml
+PMID	26082290
+Recruitment of mesenchymal stem cells by stromal cell-derived factor 1α in pulp cells from deciduous teeth.
+Dental pulp cells (DPCs), including dental pulp (DP) stem cells, play a role in dentine repair under certain conditions caused by bacterial infections associated with caries, tooth fracture and injury. Mesenchymal stem cells (MSCs) have also been shown to be involved in this process of repair. However, the mechanisms through which MSCs are recruited to the DP have not yet been elucidated. Therefore, the aim of the present in vitro study was to investigate whether stromal cell-derived factor 1α (SDF1)-C-X-C chemokine receptor type 4 (CXCR4) signaling is involved in tissue repair in the DP of deciduous teeth. A single-cell clone from DPCs (SDP11) and UE7T-13 cells were used as pulp cells and MSCs, respectively. The MG-63 and HuO9 cells, two osteosarcoma cell lines, were used as positive control cells. Reverse transcription polymerase chain reaction (RT-PCR) revealed that all cell lines (SDP11, UE7T-13 MG-63 and HuO9) were positive for both SDF1 and CXCR4 mRNA expression. Moreover, immunocytochemical analysis indicated that SDF1 and CXCR4 proteins were expressed in the SDP11 and UE7T-13 cells. SDF1 was also detected in the cell lysates (CLs) and conditioned medium (CM) collected from the SDP11 and UE7T-13 cells, and AMD3100, a specific antagonist of CXCR4, inhibited the migration of the UE7T-13 cells; this migration was induced by treatment with CM, which was collected from the SDP11 cells. In addition, real-time PCR showed that the expression of SDF1 in the SDP11 cells was inhibited by treatment with 20 ng/ml fibroblast growth factor (FGF)-2, and exposure to AZD4547, an inhibitor of the FGF receptor, blocked this inhibition. Collectively, these data suggest that SDF1 produced by DP plays an important role in homeostasis, repair and regeneration via the recruitment of MSCs.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1005.xml
+PMID	31557623
+Discovery, molecular dynamic simulation and biological evaluation of structurally diverse cholinesterase inhibitors with new scaffold through shape-based pharmacophore virtual screening.
+Designing small molecule inhibitors targeting cholinesterases (ChEs) is considered as an efficient strategy for the treatment of Alzheimer's disease (AD). In the present study, based on a shaped-based pharmacophore (SBP) model that we reported previously, virtual screening was performed on four commercial compound databases, from which eight small molecules containing new structurally scaffolds were retained and evaluated. In general, six of these potential hits were identified to be selective ChEs inhibitors. Three compounds exhibited IC
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0445.xml
+PMID	13593559
+[Therapeutic experiences with tar-sulfur powder in ambulant dermatological practice in different dermatoses].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0564.xml
+PMID	17378817
+A prospective observational study of the safety and acceptability of vaginal hysterectomy performed in a 24-hour day case surgery setting.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0576.xml
+PMID	17760071
+Climatic Changes and Dark Nebulae.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1123.xml
+PMID	31651645
+Crowned Dens Syndrome Presenting as Hemiplegia and Hypoesthesia.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0859.xml
+PMID	26907396
+Impact of the Coulomb interaction on the Franz-Keldysh effect in high-current photodetectors.
+The Franz-Keldysh effect has been recognized as the largest contributor to oscillations in the responsivity of high-current photodetectors as a function of the applied bias or the incident light wavelength and to device nonlinearity. Prior work only considered the effect of the electric field without considering the Coulomb interaction. We show that it is not possible to obtain agreement with experiments at all optical wavelengths without including this effect in the effective mass equation. We find the maxima and minima in the absorption of the applied electric field shift when the Coulomb interaction is included. We then use the calculated absorption with the drift-diffusion equations to calculate the responsivity in a partially depleted absorber (PDA) photodetector, and we obtain excellent agreement with experiments at all biases and optical wavelengths.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0168.xml
+PMID	5044197
+[Effectiveness of measures against carcinogenic hazards in the production of coal briquettes].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0289.xml
+PMID	8696188
+Antiabortionists hijack fetal pain argument.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0090.xml
+PMID	2700022
+[Auguste Böhner's death. Chronicle of a medical scandal, its background and its historical significance].
+When the 15-year-old Auguste Böhmer, daughter of Caroline Schlegel and stepdaughter of August Wilhelm Schlegel, died on 12th July 1800, Friedrich Wilhelm Joseph Schelling was accused of being responsible for this tragic event, because he tried to treat her according to the medical system of John Brown. The ensuing scandal became a symbol for the danger of every progressive movement of that time: the Romantic literature, the natural philosophy of Schelling and Brownianism in its German version, represented by Andreas Röschlaub. An attempt is made to analyse the social and political background of the scandal and to argue the historical meaning as a fight against a fundamental reform of medicine.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0515.xml
+PMID	15778544
+[Therapeutic effect of adefovir dipivoxil on recurrent or de novo infection of hepatitis B virus after liver transplantation: a preliminary report].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0483.xml
+PMID	14767515
+Chemotherapeutic potential of plant alkaloids and multidrug resistance mechanisms in malignant fibrous histiocytoma of the heart.
+Primary malignant fibrous histiocytoma (MFH) of the heart is a rare and highly malignant soft tissue tumor, which is largely resistant to conventional chemotherapy and radiotherapy. Therefore, we analyzed growth inhibitory effects of different chemotherapeutic agents and mechanisms of drug resistance in the recently established cell line MFH-H derived from a human primary cardiac MFH. The growth inhibitory effects of etoposide, vincristine, and paclitaxel were tested using the MTT assay. The expression and function of multidrug resistance-related proteins, i.e. the P-glycoprotein, the multidrug resistance-associated protein (MRP) and the lung resistance-related protein (LRP) were determined by FACScan and functional assays of cellular drug efflux. The concentration required for a 50% inhibition of growth (IC50) was 0.001 microM for etoposide and 0.035 microM for vincristine. Paclitaxel dissolved in Cremophor EL/ethanol inhibited the cell growth of MFH-H cells more intensively (IC50: 0.27 microM) than paclitaxel dissolved in DMSO (IC50: 11.09 microM) suggesting that Cremophor EL is contributing to the inhibitory effects of paclitaxel. The response of MFH-H to etoposide, vincristine and paclitaxel/Taxol could not be predicted by the expression and function of P-glycoprotein, MRP and LRP. This study demonstrates that etoposide and to a lesser extent vincristine can effectively inhibit the growth of MFH-H cells, irrespective of the multidrug resistance phenotype. MFH-H cells are relatively insensitive to paclitaxel dissolved in DMSO, in contrast to paclitaxel dissolved in Cremophor EL/ethanol indicating that the diluent Cremophor contributes to the antiproliferative effects of the taxane paclitaxel.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0857.xml
+PMID	26856352
+Margaret McCartney: Why GPs are stressed.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0391.xml
+PMID	11825879
+mom identifies a receptor for the Drosophila JAK/STAT signal transduction pathway and encodes a protein distantly related to the mammalian cytokine receptor family.
+The JAK/STAT signal transduction pathway controls numerous events in Drosophila melanogaster development. Receptors for the pathway have yet to be identified. Here we have identified a Drosophila gene that shows embryonic mutant phenotypes identical to those in the hopscotch (hop)/JAK kinase and marelle (mrl)/Stat92e mutations. We named this gene master of marelle (mom). Genetic analyses place mom's function between upd (the ligand) and hop. We further show that cultured cells transfected with the mom gene bind UPD and activate the HOP/STAT92E signal transduction pathway. mom encodes a protein distantly related to the mammalian cytokine receptor family. These data show that mom functions as a receptor of the Drosophila JAK/STAT signal transduction pathway.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0063.xml
+PMID	1912403
+Elevated proto-oncogene expression in polycystic kidneys of the C57BL/6J (cpk) mouse.
+Polycystic kidney disease in the C57BL/6J (cpk) mouse is an autosomal recessive disorder which leads to the rapid development of renal cysts and kidney failure during the first 3 to 4 postnatal weeks. Previously, we showed that the cystic kidneys of affected mice have abnormally elevated levels of c-myc mRNA. In the study presented here, it is shown that mRNAs for the proto-oncogenes c-fos and c-Kiras, as well as c-myc, are markedly elevated in cystic kidneys, suggesting that there is a more general abnormality in gene expression associated with the disease. It is also evident that there are two stages to this abnormal proto-oncogene expression. In the first stage, which occurs up through the second postnatal week, there are modest increases in proto-oncogene mRNA which parallel the increased cell proliferation that accompanies cyst growth at this time. In the second stage, which occurs after the second postnatal week, there are markedly elevated levels of proto-oncogene mRNA that are seen at a time when cell proliferation is declining. The development of this latter stage suggests either that there is a fundamental abnormality intrinsic to polycystic kidneys that leads to uncontrolled proto-oncogene expression later in disease progression or that there is a secondary response in the kidney to the progressive renal failure.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0504.xml
+PMID	15446537
+Dislocations of the elbow in children.
+A total of 33 children were treated for acute traumatic dislocation of the elbow between 1994 and 2002; 30 dislocations were posterior and three anterior. Eight children had a pure dislocation and 25 had an associated fracture of the elbow. Two had compound injuries. Two children had injury to the ulnar nerve, one to the radial nerve and one to the median nerve together with injury to the brachial artery. Twenty required open reduction. Complications included pseudarthrosis of the medial epicondyle in one child and loss of flexion and rotation of between 10 degrees and 30 degrees in ten others. Meticulous clinical and radiological assessment is mandatory in children with dislocation of the elbow to exclude associated injuries. The results were excellent to good in 22 patients, fair in ten and poor in one.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0348.xml
+PMID	10498977
+Rapid update.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0870.xml
+PMID	27279830
+Stata Modules for Calculating Novel Predictive Performance Indices for Logistic Models.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0229.xml
+PMID	6889017
+[Edematous form of mucoviscidosis in an infant].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0666.xml
+PMID	20644507
+PAR-CliP--a method to identify transcriptome-wide the binding sites of RNA binding proteins.
+RNA transcripts are subjected to post-transcriptional gene regulation by interacting with hundreds of RNA-binding proteins (RBPs) and microRNA-containing ribonucleoprotein complexes (miRNPs) that are often expressed in a cell-type dependently. To understand how the interplay of these RNA-binding factors affects the regulation of individual transcripts, high resolution maps of in vivo protein-RNA interactions are necessary. A combination of genetic, biochemical and computational approaches are typically applied to identify RNA-RBP or RNA-RNP interactions. Microarray profiling of RNAs associated with immunopurified RBPs (RIP-Chip) defines targets at a transcriptome level, but its application is limited to the characterization of kinetically stable interactions and only in rare cases allows to identify the RBP recognition element (RRE) within the long target RNA. More direct RBP target site information is obtained by combining in vivo UV crosslinking with immunoprecipitation followed by the isolation of crosslinked RNA segments and cDNA sequencing (CLIP). CLIP was used to identify targets of a number of RBPs. However, CLIP is limited by the low efficiency of UV 254 nm RNA-protein crosslinking, and the location of the crosslink is not readily identifiable within the sequenced crosslinked fragments, making it difficult to separate UV-crosslinked target RNA segments from background non-crosslinked RNA fragments also present in the sample. We developed a powerful cell-based crosslinking approach to determine at high resolution and transcriptome-wide the binding sites of cellular RBPs and miRNPs that we term PAR-CliP (Photoactivatable-Ribonucleoside-Enhanced Crosslinking and Immunoprecipitation) (see Fig. 1A for an outline of the method). The method relies on the incorporation of photoreactive ribonucleoside analogs, such as 4-thiouridine (4-SU) and 6-thioguanosine (6-SG) into nascent RNA transcripts by living cells. Irradiation of the cells by UV light of 365 nm induces efficient crosslinking of photoreactive nucleoside-labeled cellular RNAs to interacting RBPs. Immunoprecipitation of the RBP of interest is followed by isolation of the crosslinked and coimmunoprecipitated RNA. The isolated RNA is converted into a cDNA library and deep sequenced using Solexa technology. One characteristic feature of cDNA libraries prepared by PAR-CliP is that the precise position of crosslinking can be identified by mutations residing in the sequenced cDNA. When using 4-SU, crosslinked sequences thymidine to cytidine transition, whereas using 6-SG results in guanosine to adenosine mutations. The presence of the mutations in crosslinked sequences makes it possible to separate them from the background of sequences derived from abundant cellular RNAs. Application of the method to a number of diverse RNA binding proteins was reported in Hafner et al.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0695.xml
+PMID	21606280
+Documenting instructions for follow-up imaging.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0958.xml
+PMID	30126871
+Ebola: new Congo epidemic grows as conflict hampers aid efforts.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0541.xml
+PMID	16642058
+Phase-only sampled 45 channel fiber Bragg grating written with a diffraction-compensated phase mask.
+A novel phase-only sampled 45 channel fiber Bragg grating (channel spacing, 100 GHz) with high interchannel and intrachannel reflection uniformity and precise dispersion matching capability to an 80 km SMF-28 fiber is demonstrated. This grating is fabricated by the side-writing technique, in which phase information of continuous phase-only sampling is completely incorporated into a diffraction-compensated phase mask.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0662.xml
+PMID	20517731
+Occupational asthma in welders and painters.
+We aimed to investigate the frequency of occupational asthma (OA) and the factors associated with OA development in a bicycle factory, subsequently after the diagnosis of OA in three workers at the same department. Forty one welders, 23 painters and 46 controls (office workers), a total number of 110 cases were included in the study. Turkish Thoracic Society Occupational and Environmental Diseases Evaluation Questionnaire and physical examination, chest-X ray, pulmonary function tests were performed as needed. Peak expiratory flow (PEF) follow-up was done in welders and painters. Cases having symptoms related with work and >or= 20% PEF variability were diagnosed as OA. Wheezing were more frequent in welders and painters than the control group, although there wasn't a statistical significance. Dyspnea, cough and sputum production were more frequent in welders and painters with respect to controls (p< 0.05). Nine (22%) welder, 4 (18%) painter were diagnosed as OA. Working duration of welders and painters with OA (72, 156 months, respectively) were longer than the welders and painters without OA (45, 76 months, respectively), but it did not have any statistically significance. We suggest that working in welding and painting departments may cause respiratory symptoms and OA.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0041.xml
+PMID	1250431
+[Letter: First aid to drowning persons by Buginese fishermen].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0666.xml
+PMID	20652757
+Saturated fats: a perspective from lactation and milk composition.
+For recommendations of specific targets for the absolute amount of saturated fat intake, we need to know what dietary intake is most appropriate? Changing agricultural production and processing to lower the relative quantities of macronutrients requires years to accomplish. Changes can have unintended consequences on diets and the health of subsets of the population. Hence, what are the appropriate absolute amounts of saturated fat in our diets? Is the scientific evidence consistent with an optimal intake of zero? If not, is it also possible that a finite intake of saturated fats is beneficial to overall health, at least to a subset of the population? Conclusive evidence from prospective human trials is not available, hence other sources of information must be considered. One approach is to examine the evolution of lactation, and the composition of milks that developed through millennia of natural selective pressure and natural selection processes. Mammalian milks, including human milk, contain 50% of their total fatty acids as saturated fatty acids. The biochemical formation of a single double bond converting a saturated to a monounsaturated fatty acid is a pathway that exists in all eukaryotic organisms and is active within the mammary gland. In the face of selective pressure, mammary lipid synthesis in all mammals continues to release a significant content of saturated fatty acids into milk. Is it possible that evolution of the mammary gland reveals benefits to saturated fatty acids that current recommendations do not consider?
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1052.xml
+PMID	33002986
+Post-Radiation Capsular Contracture in Implant-Based Breast Reconstruction - Management and Outcome.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1042.xml
+PMID	32682686
+Hypofractionated Stereotactic Body Radiation Therapy With Simultaneous Integrated Boost and Simultaneous Integrated Protection in Pancreatic Ductal Adenocarcinoma.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0180.xml
+PMID	5417624
+Effect of mood and lithium carbonate on total body potassium.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0898.xml
+PMID	28261973
+Predictors of severe radiographic progression in patients with early rheumatoid arthritis: A Prospective observational cohort study.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0821.xml
+PMID	25713186
+Antibiotic dosing discrepancies in the 2014 skin and soft tissue infections guidelines.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0188.xml
+PMID	5649630
+Medical problems in riot situations.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0736.xml
+PMID	22961949
+Deceased donation in Asia: challenges and opportunities.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0342.xml
+PMID	10303268
+Surgeons seek special RVS slot.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0386.xml
+PMID	11688451
+A crisis obscured.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1172.xml
+PMID	33562705
+12-Week Exercise Training of Knee Joint and Squat Movement Improves Gait Ability in Older Women.
+This study analyzed the effects of an exercise training program consisting of a knee joint complex exercise device (leg-link system) with digitally controlled active motion function and squat movement on physical fitness and gait ability of elderly women aged 70 or above. Fifty four (54) elderly women aged 70 or above were divided into three groups as control group (
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0442.xml
+PMID	13495184
+[Some notes on evaluation of non-complicated post-traumatic urethral stenosis].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0093.xml
+PMID	2807497
+Myopic strabismus fixus convergens.
+A case report of myopic myositis, a rare entity, leading to strabismus fixus convergens, occurring in a high myope at the age of 46 years is presented. The possible differential diagnosis along with the aetiopathogenesis is discussed.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0414.xml
+PMID	12654963
+The accuracy of the diagnosis of paroxysmal events in children.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0956.xml
+PMID	30063683
+EXPECTING GREATNESS, PURSUING EXCELLENCE.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0679.xml
+PMID	21083597
+Serum 25-hydroxyvitamin D concentration and physical function in adult men.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0844.xml
+PMID	26421123
+Right-sided Pleuritic Chest Pain in a 36-year-old Male.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1035.xml
+PMID	32477576
+Histological conversion from adenocarcinoma to small cell carcinoma of the lung after treatment with an immune checkpoint inhibitor: a case report.
+The transformation of adenocarcinoma to small cell lung cancer has been reported as acquisition of resistance to epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors. We here report a patient who presented histologically confirmed transformation of adenocarcinoma to small cell lung cancer after treatment with immune checkpoint inhibitor. A 65-year-old man was treated with pembrolizumab as first-line therapy and achieved temporarily a stable disease with progression after six cycles of this agent. At that stage, a transbronchial biopsy showed small cell lung cancer, and he was found to have high serum concentrations of neuron-specific enolase despite concentrations of numerous tumor markers, including neuron-specific enolase, having been within normal limits at the time of presentation. The patient thereafter was treated as a small cell carcinoma patient using cisplatin plus irinotecan and amrubicin.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0363.xml
+PMID	10960430
+Tests for Helicobacter pylori infection: a critical appraisal from primary care.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0106.xml
+PMID	3177191
+Validation of portable noninvasive blood pressure monitoring devices: comparisons with intra-arterial and sphygmomanometer measurements.
+We have evaluated the accuracy of measurements provided by different types of portable automatic blood pressure monitoring devices by comparing them with intra-arterial and mercury sphygmomanometer measurements in 25 hospitalized patients. Systolic blood pressure values with portable devices that use auscultatory or oscillometric methods of measurement correlated significantly with intra-arterial values (r = 0.74 and 0.89; p less than 0.001 for both); similarly, diastolic values correlated significantly (r = 0.86 and 0.81; p less than 0.001 for both). Compared with intra-arterial measurements, there was a slight tendency for the portable devices to underestimate systolic blood pressure and overestimate diastolic blood pressure. Correlations between auscultatory or oscillometric measurements and sphygmomanometer measurements in these patients were also significant; moreover, the absolute blood pressure values obtained with the portable devices were almost identical to those with the sphymomanometer. In a further group of 12 volunteers, auscultatory and oscillometric values correlated very closely with simultaneously measured sphygmomanometer values for both systolic (r = 0.99 and 0.98) and diastolic (r = 0.96 and 0.94) blood pressures. An auscultatory device that uses continuous ECG R wave gating for Korotkoff sounds was also found to be highly accurate. Thus we have found that automated portable devices that use either auscultatory or oscillometric methods of measurement provide reliable blood pressure values.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0569.xml
+PMID	17544197
+Interferon, a growing cytokine family: 50 years of interferon research.
+The establishment of an antiviral state in cells is the defining activity of interferons (IFNs) as well as the property that permitted their discovery in 1957 by Isaacs and Lindenmann. In addition, interferons have other cellular functions that have potential clinical applications. Today, interferons are used for the treatment of a variety of malignancies and viral diseases. The publication of this special issue of Biochimie gives us a great opportunity to review the state of the art in knowledge about interferons and to explore possible future directions. This commentary text will introduce the reviews written by colleagues who are experts in different aspects of interferon research, to mark the 50th anniversary of the discovery of interferon.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0463.xml
+PMID	14150909
+DIFFUSE MESOTHELIOMA AND EXPOSURE TO ASBESTOS DUST IN THE MERSEYSIDE AREA.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1002.xml
+PMID	31472575
+Analysis of shielding of propeller noise using beamforming and predictions.
+Engine noise shielding is an important measure towards low-noise aircraft configurations. Such designs are supported by prediction tools that indicate high values for shielding of engine noise. Most prediction models approximate the complex nature of engine noise to simple noise sources such as monopoles or dipoles. This work compares predictions of noise shielding with experiments using different noise sources and shielding body geometries. The experiments considered in this work concern a monopole source shielded by a flat plate and a NACA 64-008 A wing, and a propeller shielded by the same wing. Comparisons between models and measurements are made by analysis of noise levels at individual microphones and using conventional beamforming. Results show that for the monopole cases the model predictions are in agreement with the experimental data, with an average deviation of 2-3 dB. The curvature of the leading edge of the wing influences the noise shielding results. The measured values of noise shielding of propeller noise are lower than those measured for the omni-directional source. Different types of source directivity are used to approximate the propeller in the predictions: monopole, dipole and a multi-source. The dipole approximation shows the best agreement with the experiments for the case of the propeller.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0902.xml
+PMID	28384264
+Risk factor screening to identify women requiring oral glucose tolerance testing to diagnose gestational diabetes: A systematic review and meta-analysis and analysis of two pregnancy cohorts.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1173.xml
+PMID	33649646
+Dual-modal imaging with non-contact photoacoustic microscopy and fluorescence microscopy.
+Simultaneous imaging of complementary absorption and fluorescence contrasts with high spatial resolution is useful for biomedical studies. However, conventional dual-modal photoacoustic (PA) and fluorescence imaging systems require the use of acoustic coupling media due to the contact operation of PA imaging, which causes issues and complicates the procedure in certain applications such as cell imaging and ophthalmic imaging. We present a novel dual-modal imaging system which combines non-contact PA microscopy (PAM) based on PA remote sensing and fluorescence microscopy (FLM) into one platform. The system enables high lateral resolution of 2 and 2.7 µm for PAM and FLM modes, respectively. In vivo imaging of a zebrafish larva injected with a rhodamine B solution is demonstrated, with PAM visualizing the pigment and FLM revealing the injected rhodamine B.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0628.xml
+PMID	19412450
+Mirtazapine in the treatment of essential tremor: an open-label, observer-blind study.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0094.xml
+PMID	2835584
+Plasmid-mediated sucrose metabolism in Escherichia coli K12: mapping of the scr genes of pUR400.
+The scr genes located on plasmid pUR400 and responsible for sucrose (Scr) metabolism of Escherichia coli K12 and other enteric bacteria have been cloned on a 9.3 kb DNA fragment. The different genes were mapped by transposon insertion mutagenesis, by restriction endonuclease and deletion mapping, and the corresponding gene products were identified. Besides the known structural genes scrA, coding for an EnzymeII(Scr) (45 kD) of the phosphoenolypyruvate-dependent phosphotransferase system (PTS), and scrB, coding for a sucrose 6-phosphate hydrolase (invertase) (55 kD), two new structural genes were discovered. Gene scrK apparently codes for an intracellular and ATP-dependent fructokinase (39 kD), while scrY seems to code for a sucrose porin (58 kD) in the outer cell membrane. No genes for an Enzyme III(Scr) of the PTS or for (a) glycosyltransferase(s) were detected. The four genes form an scr operon (gene order, scrK scrY scrA scrB, transcription from K to B), regulated by a repressor (gene scrR, 37 kD) and inducible by sucrose, fructose and fructose-containing oligosaccharides.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0729.xml
+PMID	22718876
+Array-controlled ultrasonic manipulation of particles in planar acoustic resonator.
+Ultrasonic particle manipulation tools have many promising applications in life sciences, expanding on the capabilities of current manipulation technologies. In this paper, the ultrasonic manipulation of particles and cells along a microfluidic channel with a piezoelectric array is demonstrated. An array integrated into a planar multilayer resonator structure drives particles toward the pressure nodal plane along the centerline of the channel, then toward the acoustic velocity maximum centered above the subset of elements that are active. Switching the active elements along the array moves trapped particles along the microfluidic channel. A 12-element 1-D array coupled to a rectangular capillary has been modeled and fabricated for experimental testing. The device has a 300-μm-thick channel for a half-wavelength resonance near 2.5 MHz, with 500 μm element pitch. Simulation and experiment confirm the expected trapping of particles at the center of the channel and above the set of active elements. Experiments demonstrated the feasibility of controlling the position of particles along the length of the channel by switching the active array elements.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1055.xml
+PMID	33093972
+Cranial angiomatoid fibrous histiocytoma: A case report and review of literature.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1083.xml
+PMID	32284102
+Surgical and Percutaneous Interventions for Chronic Thromboembolic Pulmonary Hypertension.
+The treatment of chronic thromboembolic pulmonary hypertension has expanded considerably. The ability to endarterectomize chronic thromboembolic material, the availability of pulmonary hypertension medical therapy to treat inoperable chronic thromboembolic pulmonary hypertension and/or residual pulmonary hypertension, and the rebirth of pulmonary balloon angioplasty have changed the management landscape. Patient selection requires a multidisciplinary evaluation at an experienced center. What is inoperable chronic thromboembolic pulmonary hypertension to one group may be operable chronic thromboembolic pulmonary hypertension to another. The ultimate challenge then becomes which intervention provides the optimal long-term outcome for any individual patient.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1134.xml
+PMID	32200255
+Autophagy-driven NETosis is a double-edged sword - Review.
+Autophagy is a cellular mechanism responsible for delivering protein aggregates or damaged organelles to lysosomes for degradation. It is also simultaneously a precise regulatory process, which is crucial for dealing with hunger, oxidative stress, and pathogen defense. Neutrophil Extracellular Traps (NETs), which form a part of a newly described bactericidal process, are reticular structures composed of a DNA backbone and multiple functional proteins, formed via a process known as NETosis. NETs exert their anti-infection activity by capturing pathogenic microorganisms, inhibiting their spread and inactivating virulence factors. However, NETs may also activate an immune response in non-infectious diseases, leading to tissue damage. Although the mechanism underlying this phenomenon is unclear, a large number of studies have suggested that autophagy may be involved. Autophagy-mediated NETs not only induce inflammation and tissue damage, but can also lead to cell senescence, malignant transformation, and cell death. Autophagy-dependent NETs also play a beneficial role in the hostwith respect to pathogen clearance and immune defense. Through careful review of the literature, we have found that the distinct roles of autophagy in NETosis may be dependent on the extent of autophagy and the specific manner in which it was induced. This article summarizes numerous recent studies, and reviews the role of autophagy-driven NETosis in various diseases, in the hope that this will lead to the development of more effective treatments.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0387.xml
+PMID	11694580
+Pmel17 initiates premelanosome morphogenesis within multivesicular bodies.
+Melanosomes are tissue-specific organelles within which melanin is synthesized and stored. The melanocyte-specific glycoprotein Pmel17 is enriched in the lumen of premelanosomes, where it associates with characteristic striations of unknown composition upon which melanin is deposited. However, Pmel17 is synthesized as an integral membrane protein. To clarify its physical linkage to premelanosomes, we analyzed the posttranslational processing of human Pmel17 in pigmented and transfected nonpigmented cells. We show that Pmel17 is cleaved in a post-Golgi compartment into two disulfide-linked subunits: a large lumenal subunit, M alpha, and an integral membrane subunit, M beta. The two subunits remain associated intracellularly, indicating that detectable M alpha remains membrane bound. We have previously shown that Pmel17 accumulates on intralumenal membrane vesicles and striations of premelanosomes in pigmented cells. In transfected nonpigmented cells Pmel17 associates with the intralumenal membrane vesicles of multivesicular bodies; cells overexpressing Pmel17 also display structures resembling premelanosomal striations within these compartments. These results suggest that Pmel17 is sufficient to drive the formation of striations from within multivesicular bodies and is thus directly involved in the biogenesis of premelanosomes.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0897.xml
+PMID	28239097
+Health Risk Assessment of Pesticide Residues via Dietary Intake of Market Vegetables from Dhaka, Bangladesh.
+The present study was designed to assess the health risk of pesticide residues via dietary intake of vegetables collected from four top agro-based markets of Dhaka, Bangladesh. High performance liquid chromatography with a photo diode array detector (HPLC-PDA) was used to determine six organophosphorus (chlorpyrifos, fenitrothion, parathion, ethion, acephate, fenthion), two carbamate (carbaryl and carbofuran) and one pyrethroid (cypermethrin) pesticide residues in twelve samples of three common vegetables (tomato, lady's finger and brinjal). Pesticide residues ranged from below detectable limit (<0.01) to 0.36 mg/kg. Acephate, chlorpyrifos, ethion, carbaryl and cypermethrin were detected in only one sample, while co-occurrence occurred twice for fenitrothion and parathion. Apart from chlorpyrifos in tomato and cypermethrin in brinjal, all pesticide residues exceeded the maximum residue limit (MRL). Hazard risk index (HRI) for ethion (10.12) and carbaryl (1.09) was found in lady's finger and tomato, respectively. Rest of the pesticide residues were classified as not a health risk. A continuous monitoring and strict regulation should be enforced regarding control of pesticide residues in vegetables and other food commodities.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1002.xml
+PMID	31463297
+Erratum: Factors influencing the choice of otolaryngology (ORL) head and neck surgery as a future specialty for Saudi medical students.
+[This corrects the article on p. 1941 in vol. 8, PMID: 31334159.].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0450.xml
+PMID	13738070
+[Endocrine control of iron metabolsim. XIII. Reciprocal action of cortisone and sex hormones on the levels of hepatic iron of the castrated male rabbit].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0598.xml
+PMID	18474075
+Smoke exposure increases the risk for multiple sclerosis.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0915.xml
+PMID	28803949
+Measuring temporal summation in visual detection with a single-photon source.
+Temporal summation is an important feature of the visual system which combines visual signals that arrive at different times. Previous research estimated complete summation to last for 100ms for stimuli judged "just detectable." We measured the full range of temporal summation for much weaker stimuli using a new paradigm and a novel light source, developed in the field of quantum optics for generating small numbers of photons with precise timing characteristics and reduced variance in photon number. Dark-adapted participants judged whether a light was presented to the left or right of their fixation in each trial. In Experiment 1, stimuli contained a stream of photons delivered at a constant rate while the duration was systematically varied. Accuracy should increase with duration as long as the later photons can be integrated with the proceeding ones into a single signal. The temporal integration window was estimated as the point that performance no longer improved, and was found to be 650ms on average. In Experiment 2, the duration of the visual stimuli was kept short (100ms or <30ms) while the number of photons was varied to explore the efficiency of summation over the integration window compared to Experiment 1. There was some indication that temporal summation remains efficient over the integration window, although there is variation between individuals. The relatively long integration window measured in this study may be relevant to studies of the absolute visual threshold, i.e., tests of single-photon vision, where "single" photons should be separated by greater than the integration window to avoid summation.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0814.xml
+PMID	25478322
+The mitochondrial permeability transition pore and cancer: molecular mechanisms involved in cell death.
+Since its discovery in the 1970s, the mitochondrial permeability transition (MPT) has been proposed to be a strategic regulator of cell death. Intense research efforts have focused on elucidating the molecular components of the MPT because this knowledge may help to better understand and treat various pathologies ranging from neurodegenerative and cardiac diseases to cancer. In the case of cancer, several studies have revealed alterations in the activity of the mitochondrial permeability transition pore (mPTP) and have determined its regulatory mechanism; these studies have also suggested that suppression of the activity of the mPTP, rather than its inactivation, commonly occurs in solid neoplasms. This review focuses on the most recent advances in understanding mPTP regulation in cancer and highlights the ability of the mPTP to impede the mechanisms of cell death.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0843.xml
+PMID	26390938
+Nafamostat mesilate attenuates transient focal ischemia/reperfusion-induced brain injury via the inhibition of endoplasmic reticulum stress.
+Nafamostat mesilate (NM), a serine protease inhibitor, has a broad range of clinical applications that include use as an anticoagulant during hemodialysis in cerebral hemorrhage patients, as a hemoperfusion anticoagulant for patients with intravascular coagulation, hemorrhagic lesions, and hemorrhagic tendencies, and for the improvement of acute pancreatitis. However, the effects of NM on acute cerebral ischemia have yet to be investigated. Thus, the present study utilized a rat model in which transient middle cerebral artery occlusion (MCAO) was used to induce ischemic injury to investigate the effects of NM on infarct volume and histological and biological changes. NM (1mg/kg) was intravenously administered prior to and after the MCAO procedure. Compared to control rats, the administration of NM significantly decreased infarct size and the extent of brain edema after the induction of focal ischemia via MCAO. Additionally, NM treatment attenuated MCAO-induced neuronal degeneration and activation of microglia and astrocytes. NM treatment also inhibited the MCAO-induced expression levels of glucose-regulated protein 78 (GRP78), CATT/EBP homologous protein (CHOP), and p-eukaryotic initiation factor 2α (eIF2α), which are endoplasmic reticulum (ER) stress markers, in the cerebral cortex. The present findings demonstrate that NM exerts neuroprotective effects in the brain following focal ischemia via, at least in part, the inhibition of ER stress.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0435.xml
+PMID	13290823
+[Employment of invalids and its difficulties].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0213.xml
+PMID	6398164
+Pulmonary hypertension in a patient with mixed connective tissue disease: clinical and pathologic findings, and review of literature.
+A patient with pulmonary hypertension (PH) complicating mixed connective tissue disease (MCTD) is described. The patient died suddenly after catheterization documenting the pulmonary hypertension. Pathologic examination demonstrated marked medial hypertrophy and intimal proliferation of the pulmonary arterial vessels. Review of the literature revealed few and differing reports concerning the pathology of PH as seen in MCTD. Sudden death in patients with pulmonary hypertension undergoing invasive procedures is not an uncommon occurrence.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0021.xml
+PMID	610455
+Honored guest speaker's address, Honors Convocation, School of Optometry, University of Alabama in Birmingham.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0606.xml
+PMID	18709988
+[Comparison of antimicrobial use density (AUD) of carbapenem antibacterial agents and investigation of the drug susceptibility of Pseudomonas aeruginosa in 3 hospitals in southern Ibaraki Prefecture, Japan].
+The optimal use of anti-Pseudomonas agents is an important issue in the prevention of a tolerance against Pseudomonas aeruginosa. We evaluated the effect of antimicrobial use density (AUD) of carbapenem on drug susceptibility. The AUD of the four carbapenems, imipenem (IPM/CS), panipenem (PAPM/BP), meropenem (MEPM), and biapenem (BIPM), was examined at three hospitals in Ibaraki Prefecture, between April and September 2004. The AUD was calculated using the Defined Daily Doses (DDD) methodology developed by the WHO. A drug susceptibility test was conducted on the 306 Pseudomonas aeruginosa strains randomly collected from clinical specimens at the three hospitals between September and December 2004. In accordance with the standards set by the Clinical and Laboratory Standards Institute (CLSI), minimal inhibitory concentration (MIC) was measured using the broth microdilution method. The results showed that the AUD of carbapenem at the three hospitals tended to be higher than that in other research results in Japan. At one of the three hospitals, the AUD of the PAPM was remarkably high compared to the other carbapenems. Furthermore, P. aeruginosa strains collected at this hospital showed a low susceptibility to carbapenem, and many highly tolerant strains were also observed in this hospital. In order to maintain the susceptibility of Pseudomonas aeruginosa to carbapenem, the overall extent of carbapenem use must be optimal. The use of antimicrobial drugs should be controlled properly at each hospital, in order to prevent excessive use of PAPM/BP from being used over a long period of time.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0067.xml
+PMID	2033341
+[A case report of extended thymectomy in an elderly patient with myasthenia gravis associated with Hashimoto's disease].
+We experienced a case of late-onset myasthenia gravis associated with Hashimoto's disease. A 74-year-old female with chief complaints of extremities acratia and hypohidrosis was diagnosed as having myasthenia gravis by the Tensilon test. In addition severe hypothyroidism was noted, and histological examination of a thyroid biopsy revealed Hashimoto's thyroiditis. Extended thymectomy was carried out, and the postoperative course was uneventful due to administration of an anti-ChE drug and a thyroid hormone. This case is extremely rare because only 10 patients with late-onset (over 70 years old) myasthenia gravis have been reported in the literature in Japan, and only three of them were associated with Hashimoto's disease. It was suggested that, in cases of myasthenia gravis in elderly patients, we should take into consideration radical therapy including thymectomy as a positive approach to treatment.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0501.xml
+PMID	15341049
+The devil's in the details--so focus on the fine print!
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1046.xml
+PMID	32804794
+Concerns About the Timing and Settings of Initiating Extracorporeal Membrane Oxygenation in Patients With Severe Coronavirus Disease 2019 Pneumonia.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0647.xml
+PMID	20041352
+On the robustness of the geometrical model for cell wall deposition.
+All plant cells are provided with the necessary rigidity to withstand the turgor by an exterior cell wall. This wall is composed of long crystalline cellulose microfibrils embedded in a matrix of other polysaccharides. The cellulose microfibrils are deposited by mobile membrane bound protein complexes in remarkably ordered lamellar textures. The mechanism by which these ordered textures arise, however, is still under debate. The geometrical model for cell wall deposition proposed by Emons and Mulder (Proc. Natl. Acad. Sci. 95, 7215-7219, 1998) provides a detailed approach to the case of cell wall deposition in non-growing cells, where there is no evidence for the direct influence of other cellular components such as microtubules. The model successfully reproduces even the so-called helicoidal wall; the most intricate texture observed. However, a number of simplifying assumptions were made in the original calculations. The present work addresses the issue of the robustness of the model to relaxation of these assumptions, by considering whether the helicoidal solutions survive when three aspects of the model are varied. These are: (i) the shape of the insertion domain, (ii) the distribution of lifetimes of individual CSCs, and (iii) fluctuations and overcrowding. Although details of the solutions do change, we find that in all cases the overall character of the helicoidal solutions is preserved.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0624.xml
+PMID	19286609
+In Memoriam: B. Lowell Langille (1947-2008).
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0445.xml
+PMID	13584545
+[Effects of combined hesperidin phosphate, benzoylcarbinol trimethylacetate & vitamin C in experimental uveitis in the rabbit].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0738.xml
+PMID	23043871
+Association between Anaplasma phagocytophilum seroprevalence in dogs and distribution of Ixodes ricinus and Ixodes persulcatus ticks in Latvia.
+Anaplasma phagocytophilum has been detected in ticks in Latvia; however, this is the first study to investigate this pathogen in dogs in Latvia. The aims of this study were: (i) to determine A. phagocytophilum seroprevalence in dogs, (ii) to correlate A. phagocytophilum seroprevalence in dogs with the geographic distribution of the tick species Ixodes ricinus and Ixodes persulcatus, and (iii) to determine if seroprevalence for A. phagocytophilum is higher in dogs with clinical signs suggestive of canine granulocytic anaplasmosis (CGA). Peripheral venous blood samples were collected from 3 dog groups: (i) clinically healthy dogs (HD, n=400), (ii) clinically healthy hunting dogs (HHD, n=41), and (iii) dogs with a clinical suspicion of anaplasmosis (SD, n=29). Sampling was carried out in regions inhabited by I. ricinus (IR), I. persulcatus (IP), and in regions where both tick species were present (M). SNAP 4Dx test (IDEXX) was used to detect antibodies against A. phagocytophilum in the blood of all dogs; nested PCR was performed in selected dogs of the SD group. Seroprevalence for A. phagocytophilum was calculated and correlated with the prevalent tick species in the region. A. phagocytophilum seroprevalence was 11.0% in HD, 12% in HHD, and 17% in SD with no significant differences among groups. In the IR region, seroprevalence was 12.5% (34/272) while seroprevalence in the M region was 17% (13/76), and both were significantly higher than the seroprevalence of 2% in the IP region (2/93; p<0.0005). One CGA case was diagnosed. We conclude that A. phagocytophilum seroprevalence in Latvia is within the range reported from other European countries. CGA should be included in the differential list in Latvian dogs with appropriate clinical signs and laboratory abnormalities, especially in I. ricinus habitat areas.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0952.xml
+PMID	29926158
+Efficacy and safety of resveratrol, an oral hemoglobin F-augmenting agent, in patients with beta-thalassemia intermedia.
+Recently, resveratrol showed induction of γ-globin mRNA synthesis in human erythroid precursors and reducing oxidative stress in red cells of thalassemia patients in many in vitro studies. We aimed to investigate the efficacy and safety of resveratrol, for the first time, in non-transfusion-dependent beta-thalassemia intermedia (B-TI) in Southern Iran. In this double-blind randomized clinical trial, 54 patients with B-TI were investigated during 6 months between October 2016 and March 2017. Patients were randomly allocated into three groups by simple randomization method. Group 1 (hydroxyurea (HU) and placebo, 18 patients), group 2 (resveratrol/piperine and placebo, 16 patients), and group 3(HU and resveratrol/piperine, 20 patients). Primary end point was considered as change in hemoglobin (Hb) levels and need for blood transfusion. Drug safety was considered as a secondary end point. Mean age of the patients was 28.2 ± 5.6 (18-42) years. Response rate was not significantly different among the three groups (P > 0.05). Higher percentages of adverse events were detected in groups 2 (31.3%) and 3 (25%) compared to group 1 (5.6%). However, the difference was not statistically significant (P > 0.05). All reported adverse events were gastrointestinal symptoms. Resveratrol showed a similar efficacy with HU in the small population of non-transfusion B-TI patients during a 6-month follow-up. Complications, mostly gastrointestinal, were observed more frequently in resveratrol groups compared to the HU group. Although it was not statistically significant, more attention should be given to safety and efficacy of resveratrol as an oral HbF-augmenting agent.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0726.xml
+PMID	22617639
+Atypical bilateral orbital metastases of lobular breast carcinoma.
+Breast carcinoma metastasizing to the orbit is a well-recognized entity. The authors present a 50-year-old woman with bilateral upper and lower eyelid masses and generalized dysmotility. MRI showed gadolinium-enhancing homogenous soft tissue masses filling both orbits from the eyelids to the apex and a biopsy that confirmed metastatic breast carcinoma. To the authors' knowledge, orbital metastasis of breast carcinoma has never presented in this manner.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0286.xml
+PMID	8594123
+Epidural fibrosis after permanent catheter insertion and infusion.
+Forty-six permanent epidural catheters and life-port units were implanted in 43 patients with severe, recurrent low back pain who had been considered not to be candidates for surgical intervention and in whom other therapeutic modalities had failed. Eight cases developed epidural fibrosis (EF). For analgesia, patients received either infusions with preservative-free solutions of fentanyl and bupivacaine or daily boluses of morphine and bupivacaine. Catheters remained from 75 days to 433 days. Signs of EF appeared from 21 days to 320 days after implantation. Pain at injection or resistance to injection were initial manifestations of EF, followed by poor, and eventually, nil analgesic effect. The epidural catheters were made of either polyamide, silicone, or polyurethane. Epidurograms revealed encapsulation, narrowing, and loculation of epidural space with gradually reduced spread of the contrast material. The occurrence of EF limits the permanency of implanted epidural catheters. The infusate does not cause this complication, which appears to be a foreign body reaction due to the presence of the catheter in the epidural space.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0367.xml
+PMID	11082435
+Antidiuretic effects of a nonpeptide vasopressin V(2)-receptor agonist, OPC-51803, administered orally to rats.
+OPC-51803 is the first nonpeptide vasopressin (AVP) V(2)-receptor-selective agonist. Its pharmacological profile, including antidiuretic action and receptor binding, was characterized using conscious Brattleboro rats with hereditary diabetes insipidus and Sprague-Dawley rats. In membrane preparations from the liver and kidney, OPC-51803 displaced the [(3)H]AVP binding to V(2)-receptors (K(i) = 49.8 +/- 8.1 nM) more greatly than that to V(1a)-receptors (K(i) = 1061 +/- 60 nM), showing a 21 times higher affinity for V(2)-receptors. At single oral doses of 0.003 to 0.3 mg/kg in female Brattleboro rats, OPC-51803 decreased urine volume (from 10.8 +/- 1.1 to 0.5 +/- 0.2 ml during 0-2 h postdosing) and increased urinary osmolality (from 114 +/- 9 to 432 +/- 114 mOsm/kg) in a dose-dependent manner. During the period of 4-week treatment with OPC-51803, significant and constant antidiuresis was observed. In male Sprague-Dawley rats with normal plasma AVP levels, OPC-51803 at 0.03 to 0.3 mg/kg also produced a dose-dependent antidiuretic action (urine volume: from 2.6 +/- 0.6 to 1.1 +/- 0.2 ml at 0-4 h postdosing). Few changes in urinary parameters, serum parameters, or plasma hormone levels were observed. OPC-51803 did not change blood pressure or heart rate, or inhibit AVP-induced pressor response even at 30 mg/kg p.o. These results demonstrate that OPC-51803 is a V(2)-selective agonist that produces a significant antidiuretic action after single and multiple oral dosing in AVP-deficient and normal AVP states. The data suggest that OPC-51803 is a useful therapeutic drug in the treatment of hypothalamic diabetes insipidus, nocturnal enuresis, and some kinds of urinary incontinence.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1029.xml
+PMID	32306086
+Diagnosis of ventilator-associated pneumonia in critically ill adult patients-a systematic review and meta-analysis.
+The accuracy of the signs and tests that clinicians use to diagnose ventilator-associated pneumonia (VAP) and initiate antibiotic treatment has not been well characterized. We sought to characterize and compare the accuracy of physical examination, chest radiography, endotracheal aspirate (ETA), bronchoscopic sampling cultures (protected specimen brush [PSB] and bronchoalveolar lavage [BAL]), and CPIS > 6 to diagnose VAP. We searched six databases from inception through September 2019 and selected English-language studies investigating accuracy of any of the above tests for VAP diagnosis. Reference standard was histopathological analysis. Two reviewers independently extracted data and assessed study quality. We included 25 studies (1639 patients). The pooled sensitivity and specificity of physical examination findings for VAP were poor: fever (66.4% [95% confidence interval [CI]: 40.7-85.0], 53.9% [95% CI 34.5-72.2]) and purulent secretions (77.0% [95% CI 64.7-85.9], 39.0% [95% CI 25.8-54.0]). Any infiltrate on chest radiography had a sensitivity of 88.9% (95% CI 73.9-95.8) and specificity of 26.1% (95% CI 15.1-41.4). ETA had a sensitivity of 75.7% (95% CI 51.5-90.1) and specificity of 67.9% (95% CI 40.5-86.8). Among bronchoscopic sampling methods, PSB had a sensitivity of 61.4% [95% CI 43.7-76.5] and specificity of 76.5% [95% CI 64.2-85.6]; while BAL had a sensitivity of 71.1% [95% CI 49.9-85.9] and specificity of 79.6% [95% CI 66.2-85.9]. CPIS > 6 had a sensitivity of 73.8% (95% CI 50.6-88.5) and specificity of 66.4% (95% CI 43.9-83.3). Classic clinical indicators had poor accuracy for diagnosis of VAP. Reliance upon these indicators in isolation may result in misdiagnosis and potentially unnecessary antimicrobial use.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0871.xml
+PMID	27298842
+GET YOUR RESEARCH NOTICED!
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0874.xml
+PMID	27407359
+A STRATEGY FOR RAPID IDENTIFICATION OF METHICILLIN RESISTANT STAPHYLOCOCCUS AUREUS NASAL CARRIER STATUS.
+Methicillin Resistant Staphylococcus aureus (MRSA) is a multi drug resistant organism responsible for severe outbreaks of life threatening infections in hospitals which are difficult to treat They are spread by nasal carriage among the hospitalised patients, staff and visitors. Mannitol cloxacillin salt agar (MCSA) is a single tube method to identify MRSA. However, tubes showing growth and change in colour on biochemical characterisation often do not prove to be MRSA. In this study we have combined two strategies for the rapid identification and isolation of MRSA by culture in MCSA and multiplex PCR for mecA and femB genes. Anterior nasal swabs obtained from nursing staff and patients admitted to a large referral hospital, were inoculated into MCSA. Of the 100 tubes inoculated, 8 tubes showed change in colour and growth. On conventional testing 4 were MRSA, 3 were methicillin sensitive S aureus (MSSA) and 1 was Methicillin Sensitive Coagulase Negative S aureus (MSCNS). Genotyping by multiplex PCR revealed 5 MRSA, 2 MSSA and 1 MRCNS. The Multiplex PCR technique to rapidly identify presence of mecA and femB genes showed presence of both mecA and femB bands in all MRSA. The methicillin sensitive organisms showed absence of mecA gene while coagulase negative organisms showed absence of the fern B gene. Combining MSCA with multiplex PCR for mec A and fem B genes made the test both rapid and specific. Use of this strategy would enable rapid screening of nasal carriers and early implementation of hospital infection control measures.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0379.xml
+PMID	11468700
+Ramification amplification: a novel isothermal DNA amplification method.
+We have developed a novel isothermal DNA amplification method with an amplification mechanism quite different from conventional PCR. This method uses a specially designed circular probe (C-probe) in which the 3' and 5' ends are brought together in juxtaposition by hybridization to a target. The two ends are then covalently linked by a T4 DNA ligase in a target-dependent manner, producing a closed DNA circle. In the presence of an excess of primers (forward and reverse primers), a DNA polymerase extends the bound forward primer along the C-probe and displaces the downstream strand, generating a multimeric single-stranded DNA (ssDNA), analogous to the "rolling circle" replication of bacteriophages in vivo. This multimeric ssDNA then serves as a template for multiple reverse primers to hybridize, extend, and displace downstream DNA, generating a large ramified (branching) DNA complex. This ramification process continues until all ssDNAs become double-stranded, resulting in an exponential amplification that distinguishes itself from the previously described nonexponential rolling circle amplification. In this report, we prove the principle of ramification amplification. By using a unique bacteriophage DNA polymerase, Ø29 DNA Polymerase, that has an intrinsic high processivity, we are able to achieve significant amplification within 1 hour at 35 degrees C. In addition, we applied this technique for in situ detection of Epstein-Barr viral sequences in Raji cells.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0800.xml
+PMID	25014161
+MicroRNAs Control Macrophage Formation and Activation: The Inflammatory Link between Obesity and Cardiovascular Diseases.
+Activation and recruitment of resident macrophages in tissues in response to physiological stress are crucial regulatory processes in promoting the development of obesity-associated metabolic disorders and cardiovascular diseases. Recent studies have provided compelling evidence that microRNAs play important roles in modulating monocyte formation, macrophage maturation, infiltration into tissues and activation. Macrophage-dependent systemic physiological and tissue-specific responses also involve cell-cell interactions between macrophages and host tissue niche cell components, including other tissue-resident immune cell lineages, adipocytes, vascular smooth muscle and others. In this review, we highlight the roles of microRNAs in regulating the development and function of macrophages in the context of obesity, which could provide insights into the pathogenesis of obesity-related metabolic syndrome and cardiovascular diseases.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0168.xml
+PMID	5057293
+Split-dose recovery in euoxic and hypoxic normal and tumor cells.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0326.xml
+PMID	9834841
+Temporal characterization of subcortical nuclei in mnemonic processes: results of tetrodotoxin reversible inactivation studies in the rat.
+By means of permanent lesion techniques it has been possible to ascertain whether a given subcortical neural structure is involved in memory processing. These results, however, are useful only to build a topography of memory, i.e. to provide information only on the "where" such processes take place. Memory being, per se, a temporal process, organized in at least three putative phases (acquisition, consolidation, retrieval) it is of paramount importance to know not only the "where", but also the "when", and, possibly, the "how long" of a given site involvement. The fully reversible inactivation technique has been employed to assess the chronological involvement of subcortical sites. By means of the stereotaxic administration of tetrodotoxin (TTX) it has been possible to inactivate known volumes of nervous tissue for given periods of time. In this way, it has been possible to measure the amnesic effects (disruption of the performance of a passive avoidance response, PAR) after inactivation of discrete neural sites. The data so far obtained by these means are presented and discussed. The comparison of results is justified by the constancy of the experimental subjects (young adult male rats of the same age), the surgical interventions, and the conditioning paradigm (passive avoidance responding in the light-dark box). The parabrachial nuclei, substantia nigra, ventral hippocampus, dorsal hippocampus, nucleus basalis magnocellularis, amygdala, globus pallidus, nucleus caudate-putamen (anterior, median, posterior), medial septal area and nucleus accumbens have been investigated. From these studies, data have been acquired on all three phases of memorization. The most detailed findings concern consolidation. In particular, it was shown that the functional integrity duration necessary to avoid amnesic damages varies greatly from site to site, from at least 15 min to no less than 48 hours. The results confirm and amplify previous experimental work, by defining the chronology of mnemonic involvement of many neural sites. The results are discussed in terms of comparison between sites and connectivity between the investigated sites and other sites or neuronal systems.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1024.xml
+PMID	32154034
+Correction: Clinical emergency care research in low-income and middle-income countries: opportunities and challenges.
+[This corrects the article DOI: 10.1136/bmjgh-2018-001289.].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0506.xml
+PMID	15515367
+Nasal polyps.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0064.xml
+PMID	1923866
+Children first.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0814.xml
+PMID	25471894
+Elevated serum levels of calprotectin (MRP8/MRP14) in patients with Behçet's disease and its association with disease activity and quality of life.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0562.xml
+PMID	17307446
+Coronary Artery Revascularization (CARE) registry: an observational study of on-pump and off-pump coronary artery revascularization.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0520.xml
+PMID	15970135
+[Degree of satisfaction of primary health workers regarding a consultancy-based specialty care model].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0894.xml
+PMID	28121815
+Group Prenatal Care Compared With Traditional Prenatal Care: A Systematic Review and Meta-analysis.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0175.xml
+PMID	5266350
+Palatal lift prosthesis for treatment of anatomic and neurologic palatopharyngeal insufficiency.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0855.xml
+PMID	26782104
+Pathophysiology of central sleep apneas.
+The transition from wake to sleep is accompanied by a host of physiologic changes, which result in major alterations in respiratory control and may result in sleep-related breathing disorders. The central sleep apneas are a group of sleep-related breathing disorders that are characterized by recurrent episodes of airflow reduction or cessation due to a temporary reduction or absence of central respiratory drive. The fundamental hallmark of central sleep apnea (CSA) disorders is the presence of ventilatory control instability; however, additional mechanisms play a role in one or more specific manifestations of CSA. CSA may manifest during conditions of eucapnia/hypocapnia or chronic hypercapnia, which is a useful clinical classification that lends understanding to the underlying pathophysiology and potential therapies. In this review, an overview of normal breathing physiology is provided, followed by a discussion of pathophysiologic mechanisms that promote CSA and the mechanisms that are specific to different manifestations of CSA.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1011.xml
+PMID	31745178
+Prevalence and progression of rheumatic heart disease: a global systematic review and meta-analysis of population-based echocardiographic studies.
+This systematic review and meta-analysis aimed to provide a contemporaneous estimate of the global burden of rheumatic heart disease (RHD) from echocardiographic population-based studies. We searched multiple databases between January 01, 1996 and October 17, 2017. Random-effect meta-analysis was used to pool data. We included 82 studies (1,090,792 participant) reporting data on the prevalence of RHD and 9 studies on the evolution of RHD lesions. The pooled prevalence of RHD was 26.1‰ (95%CI 19.2-33.1) and 11.3‰ (95%CI 7.2-16.2) for studies which used the World Heart Federation (WHF) and World Health Organization (WHO) criteria, respectively. The prevalence of RHD varied inversely with the level of a country's income, was lower with the WHO criteria compared to the WHF criteria, and was lowest in South East Asia. Definite RHD progressed in 7.5% (95% CI 1.5-17.6) of the cases, while 60.7% (95% CI 42.4-77.5) of cases remained stable over the course of follow-up. The proportion of cases borderline RHD who progressed to definite RHD was 11.3% (95% CI 6.9-16.5). The prevalence of RHD across WHO regions remains high. The highest prevalence of RHD was noted among studies which used the WHF diagnostic criteria. Definite RHD tends to progress or remain stable over time.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0924.xml
+PMID	29050759
+Modeling tuberculosis pathogenesis through ex vivo lung tissue infection.
+Tuberculosis (TB) is one of the top 10 causes of death worldwide. Several in vitro and in vivo experimental models have been used to study TB pathogenesis and induction of immune response during Mycobacterium tuberculosis infection. Precision cut lung tissue slices (PCLTS) is an experimental model, in which all the usual cell types of the organ are found, the tissue architecture and the interactions amongst the different cells are maintained. PCLTS in good physiological conditions, monitored by MTT assay and histology, were infected with either virulent Mycobacterium tuberculosis strain H37Rv or the TB vaccine strain Mycobacterium bovis BCG. Histological analysis showed that bacilli infecting lung tissue slices were observed in the alveolar septa, alveolar light spaces, near to type II pneumocytes, and inside macrophages. Mycobacterial infection of PCLTS induced TNF-α production, which is consistent with previous M. tuberculosis in vitro and in vivo studies. This is the first report of using PCLTS as a system to study M. tuberculosis infection. The PCLTS model provides a useful tool to evaluate the innate immune responses and other aspects during the early stages of mycobacterial infection.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1034.xml
+PMID	32455913
+Thermoplastic Disks Used for Commercial Orthodontic Aligners: Complete Physicochemical and Mechanical Characterization.
+Invisible orthodontic aligners (IOAs) have been introduced in the orthodontic field as an innovative alternative for fixed brackets, in relation to their ability to be easily inserted/removed from the oral cavity without affecting the chewing ability and the aesthetic of the patients. The paper provides a complete physicochemical and mechanical characterization of thermoplastic materials in the form of disks used for commercial IOAs. A wide palette of specific techniques is considered, from tensile tests and dynamic-mechanical analysis, to X-Ray diffraction (XRD), differential scanning calorimetry (DSC), Fourier transformation infrared spectroscopy (FTIR-ATR) analyses and water absorption tests. The disks are investigated before and after immersion into staining beverages (red wine, coffee, nicotine and artificial saliva), in terms of colour variations, transparency, and microscopic surface modifications by means of colorimetry, UV-VIS absorbance and scanning electron microscopy (SEM). Among all the samples, polyurethane (PU) exhibited the highest crystallinity and the highest values of mechanical and thermal resistance, while the poly(ethylene terephthalate)-glycol (PETG) samples presented better transparency and less ability to absorb water. Moreover, red wine and coffee give noticeable colour variations after 14 days of immersion, together with a slight reduction of transparency.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0633.xml
+PMID	19588636
+Strategies to increase your preauthorizations.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0284.xml
+PMID	8533292
+Influence of flumequine on in vivo mitogen responses of European eel (Anguilla anguilla L., 1758) lymphoid cells.
+The influence of flumequine on mitogen induced lymphoid cell proliferation in European eels (Anguilla anguilla L., 1758) was studied. For this purpose an in vivo test, using peroral drug administration followed by successive intraperitoneal injections with concanavalin A (ConA) or bacterial lipopolysaccharides (LPS) and 5-bromo-2'-deoxyuridine, was applied. Direct counting of proliferated cells in blood smears revealed that flumequine possesses mitogenic properties. A synergistic and an antagonistic effect of the drug was observed after LPS and ConA stimulation, respectively. Flow cytometric analysis of peripheral blood lymphoid cells showed a significant reduction of the mean proportion surface immunoglobulin positive cells in the flumequine-treated animals. It is concluded that flumequine enhances proliferation of lymphoid cells (probably surface immunoglobulin negative cells) in eel under the present experimental conditions.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0085.xml
+PMID	2572781
+Nicotine and Tourette's syndrome.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1078.xml
+PMID	32367562
+Long-term outcomes of rituximab therapy in pemphigus.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0648.xml
+PMID	20081826
+Substrate-dependent proton antiport in neurotransmitter:sodium symporters.
+Neurotransmitter-sodium symporters (NSS), targets for psychostimulants and therapeutic drugs, have a critical role in neurotransmission. Whereas eukaryotic NSS show chloride-dependent transport, bacterial NSS feature Cl(-)-independent substrate transport. Recently we showed that mutation of an acidic residue near one of the sodium ion-binding sites in LeuT of Aquifex aeolicus or Tyt1 of Fusobacterium nucleatum renders substrate binding and/or transport Cl(-) dependent. We reasoned that the negative charge--provided either by Cl(-) or by the transporter itself--is required for substrate translocation. Here we show that Tyt1 reconstituted in proteoliposomes is strictly dependent on the Na(+) gradient and is stimulated by an inside negative membrane potential and by an inversely oriented proton gradient. Notably, Na(+)/substrate symport elicited H(+) efflux, indicative of Na(+)/substrate symport-coupled H(+) antiport. Mutations that render the transport phenotype Cl(-) dependent essentially abolish the pH dependence. We propose unifying features of charge balance by all NSS members with similar mechanistic features but different molecular solutions.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0417.xml
+PMID	12725075
+[Synthesis and identification of methylparathion artificial antigen].
+In order to synthesize the artificial antigen methylparathion(M1605), methylparathion was reduced into amino-methylparathion by using acetic acid-zinc powder-hydrochloric acid. Artificial antigens (M1605-BSA, M1605-TTH) were synthesized by conjugating amino-methylparathion to bovine serum albumin(BSA) and tachypleus tridentatus hemocyanin (TTH) directly after diazotization. Rabbits were immunized with M1605-BSA for 10 weeks, and the high titer and high specificity antiserum from those rabbits was testified by double agar gel diffusion and indirect ELISA. The results showed that an artificial antigen was obtained successfully and this made it possible to establish the immunoassay of M1605.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0665.xml
+PMID	20607681
+Three-dimensional porous scaffold allows long-term wild-type cell delivery in dystrophic muscle.
+Duchenne muscular dystrophy (DMD) is caused by the lack of dystrophin; affected muscles are characterized by continuous bouts of muscle degeneration, eventually leading to the exhaustion of the endogenous satellite cell pool. At present, only palliative treatments are available, although several gene and cell therapy-based approaches are being studied. In this study we proposed to overcome the limitations hampering intramuscular cell injection by using a biomaterial-based strategy. In particular, we used a three-dimensional (3D) collagen porous scaffold to deliver myogenic precursor cells (MPCs) in vivo in the mdx murine model of DMD. MPCs, derived from single fibres of wild-type donors, were expanded in vitro, seeded onto collagen scaffolds and implanted into the tibialis anterior muscles of normal and mdx mice. As a control, cells were delivered via direct intramuscular cell injection in the contralateral muscles. Scaffold-delivered MPCs displayed lower apoptosis and higher proliferation than injected cells; in terms of dystrophin restoration, collagen scaffolds yielded better results than direct injections. Importantly, time-course experiments indicated that the scaffolds acted as a cell reservoir, although cell migration was mostly contained within 400 µm from the scaffold-host tissue interface.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0753.xml
+PMID	23530322
+Resource recovery from septic tank effluent using duckweed-based tilapia aquaculture.
+Two parallel duckweed ponds were deployed to utilize nutrients from the effluent of a septic tank treating domestic wastewater. The effluent and fresh biomass of duckweed pond were fed to two subsequent fish ponds stocked with Nile tilapia (Oreochromis niloticus). Fish ponds receiving freshwater and commercial feed were used as control. The results of specific growth rate and feed conversion ratio showed no significant difference between the control ponds and treatment ponds. On the other hand, the total and net fish yields were significantly higher in the control. Microbial analysis revealed contamination of gills, intestine and liver of fish in the treatment ponds. The activity of the immune response genes was up-regulated in the brain and liver of the treatment samples. A micronucleus assay revealed a similar percentage of micronuclei in the polychromatic erythrocytes of blood in the control and treatment samples, while the treatment samples a had higher incidence of micronuclei in the polychromatic erythrocytes of gills, compared with the control.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0455.xml
+PMID	13899012
+[Nitro compounds in migraine therapy].
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1179.xml
+PMID	33670406
+Polymer Processing and Surfaces.
+Polymer processing and surfaces are considered key parameters for developing unique materials for various applications [...].
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1088.xml
+PMID	33388449
+Hazardous elements flow during pyrolysis of oily sludge.
+Oily sludge (OS) is a hazardous waste and pyrolysis is a promising technology to achieve energy recovery and non-hazardous disposal simultaneously. However, the distribution of hazardous elements, including N/S/Cl and heavy metals, in pyrolytic products possibly causes secondary pollution. This study conducted a systematic research on hazardous elements flow during OS pyrolysis under variant temperature. Results showed that N/S/Cl in OS were distributed 44.77-15.51 wt%, 83.29-80.22 wt%, and 78.59-73.41 wt% into the solid residues after pyrolysis, respectively. Elevating pyrolysis temperature facilitated more N/S/Cl flowing into pyrolytic oil and gas. The macromolecular N-/S-/Cl-containing compounds, including amides, amines, nitriles, sulfonates, chloroalkanes, etc., were widely distributed in pyrolytic oil and gas products. The micromolecular N-/S-/Cl-containing pollutants released between 200 and 400 °C included HCN, NH
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0786.xml
+PMID	24560192
+How T cells lose their touch.
+T cells are among the most sensitive of cells, but in this issue of Immunity, Honda et al. (2014) demonstrate that effector T cells must lose their touch within hours to protect the host from immunopathology.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0717.xml
+PMID	22320314
+Stability of voxel values from cone-beam computed tomography for dental use in evaluating bone mineral content.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0475.xml
+PMID	14489735
+Mechanism of hypotension following release of abdominal aortic clamp.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0750.xml
+PMID	23410734
+A phase II study of sunitinib in advanced hepatocellular carcinoma.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0167.xml
+PMID	5016105
+Development of mesencephalic nuclei in the chick embryo (Gallus domesticus).
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0521.xml
+PMID	15972319
+Hypertonic glucose-based peritoneal dialysate is associated with higher blood pressure and adverse haemodynamics as compared with icodextrin.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0636.xml
+PMID	19686902
+[Epicutaneous testing of patients presenting atopic dermatitis: atopy patch tests].
+Exposure of atopic dermatitis (AD) patients to aeroallergens or food allergens can exacerbate or maintain the disease. Atopy patch tests (APTs) are able to identify these triggering factors and consist of the epicutaneous application of allergens for 48hours with evaluation of the resulting eczematous lesions after 48 and 72hours, according to the reading criteria of the European Task Force on Atopic Dermatitis (ETFAD). APTs show a higher specificity than skin prick and specific IgE tests, since the pathophysiological mechanism of the reaction induced is very similar to what occurs in AD lesions. The standardization of APTs to aeroallergens has brought a certain degree of reliability to this method, which is not the case for food APTs, where the positive predictive value must be improved in order to avoid any unnecessary dietary restrictions. Thus, optimization of APTs and furtherance of knowledge of the pathophysiology of eczemas could help to develop new immunobiological diagnostic methods and AD-specific immunotherapy.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0880.xml
+PMID	27607024
+Systemic onset juvenile idiopathic arthritis and exposure to fine particulate air pollution.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0684.xml
+PMID	21266054
+Ketamine inhibits tumor necrosis factor secretion by RAW264.7 murine macrophages stimulated with antibiotic-exposed strains of community-associated, methicillin-resistant Staphylococcus aureus.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0509.xml
+PMID	15605799
+A fifty-five-year old-male with chronic icterus.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0091.xml
+PMID	2739019
+Plasma tumor necrosis factor levels in patients with presumed sepsis. Results in those treated with antilipid A antibody vs placebo.
+Using an enzyme-linked immunosorbent assay, we measured plasma levels of tumor necrosis factor (TNF) in 38 patients who were treated with either antilipid A antibody or a placebo for presumed gram-negative bacteremia. Sixteen of the 38 patients had positive blood cultures: 14 with gram-negative rods and 2 with Streptococcus pneumoniae. Initial serum samples for TNF determinations were obtained within 2 to 72 hours (mean, 18.8 hours) after the onset of clinical signs of sepsis. Six (16%) of 38 patients had detectable TNF levels: 4 of 14 with positive blood cultures for gram-negative rods but only 2 of 22 with negative blood cultures (odds ratio, 4; 95% confidence limits, 0.5 and 24.3). Of the 6 patients, 4 had received the placebo and 2 had received the antibody. Tumor necrosis factor levels did not predict adult respiratory distress syndrome, shock, disseminated intravascular coagulation, renal failure, or mortality. The highest TNF levels (500 and 250 pg/mL) were observed in 2 patients with Enterobacter cloacae bacteremia who had received the placebo and antilipid A antibody, respectively. The other 2 patients with bacteremia and detectable TNF levels had positive blood cultures for Haemophilus influenzae (50 pg/mL) and Bacteroides fragilis (120 pg/mL), respectively. Despite negative blood cultures, the remaining 2 patients repeatedly had detectable TNF levels and a clinical picture consistent with gram-negative sepsis.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0985.xml
+PMID	30938629
+Clinical Imaging Research: Higher Evidence, Global Collaboration, Improved Reporting, and Data Sharing Are the Grand Challenges.
+The four grand challenges of imaging research—increasing evidence levels, enhancing global collaboration, improving research reporting quality, and sharing trial data—can be addressed, utilizing the tail wind of digital transformation, by consolidating actions of all stakeholders, with the ultimate goal of evidence-based, reproducible, generalizable, and broadly accepted results that will improve the quality and consistency of patient care.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0945.xml
+PMID	29703990
+Topical pharyngeal anesthesia provides no additional benefit to propofol sedation for esophagogastroduodenoscopy: a randomized controlled double-blinded clinical trial.
+Propofol sedation has been applied during esophagogastroduodenoscopy procedures, but whether topical pharyngeal anesthesia should be administered at the same time has rarely been reported. Our study examined the role of topical pharyngeal anesthesia in sedated endoscopies in a randomized controlled double-blinded clinical trial. A total of 626 patients who underwent sedated esophagogastroduodenoscopy were randomized into the experimental group (n = 313) or the control group (n = 313). The discomfort score, immediately and one day after the procedure, was not statistically significant [7.2 (5-9) vs. 7.5 (6-9), P = 0.210; 2.3 (0-3) vs. 2.6 (0-4), P = 0.095, respectively]. Two patients in the experimental group and three patients in the control group needed oral medication for pharyngeal discomfort (P = 0.354). The satisfaction score was 9.2 (8-10) in the experimental group and 8.9 (7-10) in the control group (P = 0.778). Lidocaine topical pharyngeal anesthesia in propofol-sedated esophagogastroduodenoscopy did not further reduce the pharyngeal discomfort or improve the satisfaction. This clinical trial was registered at ClinicalTrials.gov (ClinicalTrials.gov ID: NCT03070379).
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0924.xml
+PMID	29068512
+Chiral Discrimination through 
+The appropriate choice of the host molecules with well-defined optical activity (S-H/R-H) helps in the differentiation between two secondary ammonium ion-derivative guest molecules with different optical activities (R-G/S-G) based on the fluorescence resonance energy transfer (FRET)-based luminescence responses. Crown ether-based host molecules with opposite chiral configurations (R-H, S-H) have been derived from 1,1'-bi-2-naphthol (BINOL) derivatives that have axially chiral biaryl centers. These chiral crown ethers form host-guest complexes (i.e., [2]pseudorotaxanes) with chiral secondary ammonium ion derivatives (R-G, S-G). NMR spectroscopic studies show that the complexes are in a dynamic equilibrium in solution. Results of the
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0052.xml
+PMID	1557233
+Determination of the immunization schedule for field trials with the synthetic malaria vaccine SPf 66.
+The synthetic malaria vaccine SPf 66 has been shown to be safe, immunogenic and effective in trials performed with controlled groups naturally and experimentally exposed to the disease. In order to continue the trials in open populations, it was necessary to standardize the vaccination characteristics. We have performed four field trials with soldier volunteers with the aim, among others, of defining the number of doses required, the intervals between applications, the protein concentration, and the adjuvant to be used. In these trials, the vaccinated individuals' immune responses were evaluated by assaying anti-SPf 66 antibody titres, in vitro growth inhibition of the P. falciparum parasite, and the vaccinees' capacity to recognize P. falciparum native proteins. From these results we conclude that the best vaccination schedule, for adults, is three doses administered subcutaneously on days 0, 30 and 180, each containing 2 mg of the synthetic polymerized petide SPf 66 adsorbed to alum hydroxide.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0180.xml
+PMID	5413347
+Use of a spot test for chloride in cervical mucus for self-detection of the fertile phase in women.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0150.xml
+PMID	4523694
+[Surgical procedures for apicoectomy].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0610.xml
+PMID	18846135
+[The words capture the thoughts].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0136.xml
+PMID	4083266
+The treatment of choice for localized poorly differentiated adenocarcinoma of the prostate.
+Of 286 evaluable patients definitively irradiated for adenocarcinoma of the prostate, 71 with Stage B2 and C poorly differentiated lesions were studied. Forty-six patients were treated with external beam therapy and 25 with 125I implantation and pelvic lymph node dissection. Within both the external beam and the 125I treatment groups, the local recurrence rate was noticeably higher in the Stage C than in the Stage B2 tumors. Moreover, the incidence of local failure was significantly increased in those patients treated with 125I implantation, 56% vs. 24% (p = 0.008), suggesting that external beam irradiation may be the treatment of choice for localized, poorly differentiated prostatic tumors.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0829.xml
+PMID	25963293
+Reliability and practicability of the straight leg raise test in children with cerebral palsy.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1177.xml
+PMID	33550014
+Construction and analysis of protein-protein interaction network of non-alcoholic fatty liver disease.
+Non-alcoholic fatty liver disease (NAFLD) is a disease with multidimensional complexities. Many attempts have been made over the years to treat this disease but its incidence is rising. For this reason, the need to identify and study new candidate proteins that may be associated with NAFLD is of utmost importance. Systems-based approaches such as the analysis of protein-protein interaction (PPI) network could lead to the discovery of new proteins associated with a disease that can then be translated into clinical practice. The aim of this study is to analyze the interaction network of human proteins associated with NAFLD as well as their experimentally verified interactors and to identify novel associations with other human proteins that may be involved in this disease. Computational analysis made it feasible to detect 77 candidate proteins associated with NAFLD, having high network scores. Furthermore, clustering analysis was performed to identify densely connected regions with biological significance in this network. Additionally, gene expression analysis was conducted to validate part of the findings of this research work. We believe that our research will be helpful in extending experimental efforts to address the pathogenesis and progression of NAFLD.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0393.xml
+PMID	11911203
+Nine new secoiridoid glucosides from Jasminum nudiflorum.
+Phytochemical study of the leaves of Jasminum nudiflorum has led to the isolation of nine new secoiridoid glucosides, jasnudiflosides F-L (1-7), nudifloside D (8) and isooleoacteoside (9). The structures of these compounds were elucidated on the basis of chemical and spectroscopic evidence.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0775.xml
+PMID	24237852
+[Results or pelvi-perineal rehabilitation in patients with pelvic floor dyssynergia].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0375.xml
+PMID	11327336
+Effects of propafenone on anisotropic conduction properties within the three-dimensional structure of the canine ventricular wall.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0094.xml
+PMID	2838024
+Oxygenation mechanism in the oxidation of xenobiotic aldehyde to carboxylic acid by mouse hepatic microsomes.
+11-Oxo-delta 8-tetrahydrocannabinol was oxidized to delta 8-tetrahydrocannabinol-11-oic acid by mouse hepatic microsomes. The oxygenation mechanism in the reaction was confirmed by the incorporation of oxygen-18 from molecular oxygen into delta 8-tetrahydrocannabinol-11-oic acid. The oxygenation of aldehyde to carboxylic acid represents a novel mechanism in biological oxidation of aldehyde to carboxylic acid.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0101.xml
+PMID	3039325
+Health risks from tick-transmitted arboviruses on Australia's Great Barrier Reef.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0290.xml
+PMID	8732565
+Subcutaneous fat necrosis of the newborn: a case presentation.
+Subcutaneous fat necrosis is normally a self-limiting condition. A complication of subcutaneous fat necrosis is hypercalcemia. If the infant is discharged from the hospital before the lesions are healed, the family should be instructed to monitor the infant for the signs and symptoms of hypercalcemia. The parents need to understand the importance of keeping follow-up appointments to monitor the calcium levels. It is important to reassure the family that the lesions will disappear with time. They need to be instructed to leave the lesions alone. The lesions should not be punctured, nor should the family apply hot or cold compresses to the sites. The family should be cautioned against exposing the baby to sunlight to lower endogenous vitamin D production.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0863.xml
+PMID	27025745
+Preparation and Microbiological Evaluation of Amphiphilic Kanamycin-Lipoamino Acid Ion-Pairs.
+Amphiphilic ion-pairs of kanamycin (KAN) were prepared by evaporation of a water-ethanol co-solution of KAN base and a lipoamino acid bearing a 12-carbon atoms alkyl side chain (LAA12), at different molar ratios. Infrared spectroscopy confirmed the structure of ion-pairs, while differential scanning calorimetry (DSC) and powder X-ray diffractometry (PXRD) studies supported the formation of new saline species with a different crystalline structure than the starting components. The solubility pattern shown in a range of both aqueous and organic solvents confirmed that the ion-pairs possess an amphiphilic character. The LAA12 counter-ion showed not to improve the antibacterial activity of KAN, suggesting that such chemical strategy is not able to favor the penetration of this drug inside the bacteria cells. Nevertheless, a slight improving, i.e., a one-fold dilution, was observed in E. coli. The present study can also serve as the basis for a further evaluation of LAA ion-pairing of antibiotics, as a means to improve the loading of hydrophilic drugs into lipid-based nanocarriers.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0488.xml
+PMID	14916939
+[Obstetrical aspects of toxoplasmosis].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0987.xml
+PMID	30992978
+Antifibrotic therapies in liver disease: Ready for primetime?
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0267.xml
+PMID	8013640
+A role for a pertussis toxin-sensitive trimeric G-protein in store-operated Ca2+ inflow in hepatocytes.
+The mechanism of store-operated Ca2+ inflow in hepatocytes was investigated using fluo-3 and fura-2 to monitor changes in the concentration of intracellular free Ca2+ in single cells, and 1-(alpha-glycerophosphoryl)-myo-inositol 4,5-diphosphate, P4(5)-1-(2-nitrophenyl)ethyl ester ('caged' GPIP2) and 'caged' guanosine 5'-[gamma thio]triphosphate (GTP gamma S) (introduced into the cytoplasmic space by microinjection), thapsigargin and 2,5-di-tert- butylhydroquinone (DBHQ) to stimulate Ca2+ inflow. Photolysis of 'caged' GPIP2 or 'caged' GTP gamma S stimulated Ca2+ inflow. The abilities of GPIP2, thapsigargin and DBHQ to stimulate Ca2+ inflow were inhibited by the pre-treatment of hepatocytes with pertussis toxin in vivo for 36 h. Thapsigargin-stimulated Ca2+ inflow was also inhibited by guanosine 5'-[beta-thio]diphosphate (GDP beta S) (introduced by microinjection). It is concluded that, in hepatocytes, store-operated Ca2+ inflow induced by the actions of either inositol 1,4,5-trisphosphate, thapsigargin or DBHQ requires a pertussis toxin-sensitive trimeric G-protein.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0388.xml
+PMID	11755414
+Bacterial virulence, proinflammatory cytokines and host immunity: how to choose the appropriate Salmonella vaccine strain?
+Salmonella infection in its mammalian host can be dissected into two main components. The co-ordinate expression of bacterial virulence genes which are designed to evade, subvert or circumvent the host response on the one hand, and the host defence mechanisms which are designed to restrict bacterial survival and replication on the other hand. The outcome of infection is determined by the one which succeeds in disturbing this equilibrium more efficiently. This delicate balance between Salmonella virulence and host immunity/inflammation has important implications for vaccine development or therapeutic intervention. Novel Salmonella vaccine candidates and live carriers for heterologous antigens are attenuated strains with defined genetic modifications of metabolic or virulence functions. Although genetic defects of different gene loci can lead to similar degrees of attenuation, effects on the course of infection may vary, thereby altering the quality of the elicited immune response. Studies with gene-deficient animals indicate that Salmonella typhimurium strains with mutations in aroA, phoP/phoQ or ssrA/ssrB invoke different immune responses and that a differential repertoire of pro-inflammatory cytokines is required for clearance. Consequently, Salmonella mutants defective in distinct virulence functions offer the potential to specifically modulate the immune response for defined medical applications.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1161.xml
+PMID	33140316
+Cultural Adaptation and Validation of the Moroccan Arabic Version of the Muslim Belief into Action (BIAC) Scale.
+Various approaches have been developed to comprehensively assess multiple dimensions of religiosity. The Belief into Action (BIAC) Scale was developed for this purpose and to evaluate the degree of translation of personal beliefs into real-life actions. The goal of the present study was to assess the validity and reliability of the Moroccan Arabic version of the Muslim BIAC, designed to assess the religiosity of Muslims. This study was conducted in two stages. First, the original version of Muslim BIAC was translated from English to Arabic using a standard forward-backward translation procedure. Second, the Moroccan Arabic version of the Muslim BIAC was administered to a sample of 132 students at Ibn Zohr University, Agadir, Morocco (mean age 22.2 years). The average score on the BIAC was 46.1 (SD = 17.2). The Cronbach's alpha for internal reliability was 0.81, with alphas for removed items ranging from 0.77 to 0.82. Test-retest reliability by intraclass correlation coefficient (ICC) was 0.87 (95% CI = 0.83-0.91). Discriminant validity indicated relatively weak correlations with depressive symptoms (r = - 0.06) and perceived stress (r = 0.08). The Moroccan Arabic version of the Muslim BIAC is a reliable and valid measure of religious involvement that can be used to assess the relationship between religiosity and health in Moroccan Arabic populations.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0981.xml
+PMID	30833553
+Molecular constraints on CDR3 for thymic selection of MHC-restricted TCRs from a random pre-selection repertoire.
+The αβ T cell receptor (TCR) repertoire on mature T cells is selected in the thymus, but the basis for thymic selection of MHC-restricted TCRs from a randomly generated pre-selection repertoire is not known. Here we perform comparative repertoire sequence analyses of pre-selection and post-selection TCR from multiple MHC-sufficient and MHC-deficient mouse strains, and find that MHC-restricted and MHC-independent TCRs are primarily distinguished by features in their non-germline CDR3 regions, with many pre-selection CDR3 sequences not compatible with MHC-binding. Thymic selection of MHC-independent TCR is largely unconstrained, but the selection of MHC-specific TCR is restricted by both CDR3 length and specific amino acid usage. MHC-restriction disfavors TCR with CDR3 longer than 13 amino acids, limits positively charged and hydrophobic amino acids in CDR3β, and clonally deletes TCRs with cysteines in their CDR3 peptide-binding regions. Together, these MHC-imposed structural constraints form the basis to shape VDJ recombination sequences into MHC-restricted repertoires.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0605.xml
+PMID	18681460
+Trapping ring electrode cell: a FTICR mass spectrometer cell for improved signal-to-noise and resolving power.
+A novel FTICR cell called the trapping ring electrode cell (TREC) has been conceived, simulated, developed, and tested. The performance of the TREC is compared to a closed cylindrical cell at different excited cyclotron radii. The TREC permits the ability to maintain coherent ion motion at larger initial excited cyclotron radii by decreasing the change in radial electric field with respect to z-axis position in the cell. This is accomplished through postexcitation modulation of the trapping potentials applied to segmented trap plates. Resolving power approaching the theoretical limit was achieved using the novel TREC technology; over 420,000 resolving power was observed on melittin [M + 4H] (4+) species when employed under modest magnetic field strength (3T) and a data acquisition duration of 13 s. A 10-fold gain in signal-to-noise ratio is demonstrated over the closed cylindrical cell optimized with common potentials on all ring electrodes. The observed frequency drift during signal acquisition over long time periods was also significantly reduced, resulting in improved resolving power.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0958.xml
+PMID	30104272
+Treatment of Pseudomonas aeruginosa Biofilm Present in Endotracheal Tubes by Poly-l-Lysine.
+The endotracheal tube (ETT) is an essential interface between the patient and ventilator in mechanically ventilated patients. However, a microbial biofilm is formed gradually on this tube and is associated with the development of ventilator-associated pneumonia. The bacteria present in the biofilm are more resistant to antibiotics, and current medical practices do not make it possible to eliminate.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0569.xml
+PMID	17540934
+Gender disorder specialist is found guilty of serious professional misconduct.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0338.xml
+PMID	10207311
+[Effect of local hypotensive therapy on ocular hemodynamics in patients with primary open-angle glaucoma].
+Ocular hemodynamics is followed u p in patients with primary open-angle glaucoma after local application of 1% pilocarpine and 0.5% timolol maleate for 30 days. Forty-two patients (48 eyes) aged 47-82 years with initial, well-developed, and far-advanced condition were followed up. Diastolic, m ean dynamic pressure in the orbital artery, and perfusion pressure were measured. A significant decrease of diastolic pressure in the orbital artery, more expressed during the first ten days was observed in all patients. Later this value increased till the end of follow-up, but did not reach the initial level. Hence, patients with visual field loss are characterized by a higher local vascular tone and are less liable to its decrease after the above local hypotensive therapy.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0684.xml
+PMID	21244141
+Complexity in object manipulation by Japanese macaques (Macaca fuscata): a cross-sectional analysis of manual coordination in stone handling patterns.
+Defined as a spontaneous stone-directed noninstrumental manipulative behavior, and comprised of multiple one-handed and (a)symmetrical/(un)coordinated two-handed patterns, stone handling (SH) is a good candidate for the study of complexity in object manipulation. We present a cross-sectional developmental analysis of SH complexity in Japanese macaques (Macaca fuscata), through the combined investigation of bimanuality, coordination, and symmetry in hand use. Bimanual SH patterns were more frequent than unimanual patterns. Among bimanual patterns, coordinated actions were more frequent than uncoordinated ones. We recorded five asymmetrical coordinated SH patterns with manual role differentiation, a form of hand use reminiscent of complex actions involving the use of tools in monkeys and apes. Bimanuality in SH was affected by body posture. Aging individuals performed less bimanual and less coordinated SH patterns than younger individuals. Our result on senescent males performing less bimanual patterns than senescent females was consistent with sex differences found in the late deterioration of complex manual movements in other species. Although some SH patterns represent a high degree of behavioral complexity, our results suggest that SH behavior is not as complex as tool-use or tool-manufacture in other nonhuman primates and hominids.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1045.xml
+PMID	32790714
+Traditional Indigenous medicine in North America: A scoping review.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0241.xml
+PMID	7253884
+[Note about Caledonian ethno-medicine (author's transl)].
+Natives of New Caledonia believe that both worlds of the living creatures and of the dead are the same but with two aspects. Still these two worlds frequently oppose each other: witches are able on the request of the dead, to cast spell over; but medicine-men, if requested in due time, can prevent or cure their bad effects. Among the various noxious consequences of witches action is madness, which is not considered as a mental illness but either as a consequence of a spell or as punishment for a tabu transgression. So, mental patients are generally presented first to the medicine-man and, if necessary, in a second time reported to the occidental medicine. In such a situation, a good cooperation between the medicine-man and the psychiatric is strongly recommended.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0157.xml
+PMID	4720653
+Illegal use of alphachlorolose.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0170.xml
+PMID	5118696
+[Comparative analysis of surgical methods applied in fractures of the olecranon].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0985.xml
+PMID	30939955
+Initial experience and one-year follow-up with Neuroform Atlas Stent System for the treatment of brain aneurysms.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0197.xml
+PMID	5920329
+Experimental allergic encephalomyelitis. An electron microscopic study.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0408.xml
+PMID	12458955
+Super/subcritical fluid chromatography chiral separations with macrocyclic glycopeptide stationary phases.
+The chiral recognition capabilities of three macrocyclic glycopeptide chiral selectors, namely teicoplanin (Chirobiotic T), its aglycone (Chirobiotic TAG) and ristocetin (Chirobiotic R), were evaluated with supercritical and subcritical fluid mobile phases. A set of 111 chiral compounds including heterocycles, analgesics (nonsteroidal antiinflamatory compounds), beta-blockers, sulfoxides, N-protected amino acids and native amino acids was separated on the three chiral stationary phases (CSPs). All separations were done with an outlet pressure regulated at 100 bar, 31 degrees C and at 4 ml/min. Various amounts of methanol ranging from 7 to 67% (v/v) were added to the carbon dioxide along with small amounts (0.1 to 0.5%, v/v) of triethylamine and/or trifluoroacetic acid. The Chirobiotic TAG CSP was the most effective closely followed by the Chirobiotic T column. Both columns were able to separate, partially or fully, 92% of the enantiomers of the compound set. The ristocetin chiral selector could partially or baseline resolve only 60% of the enantiomers tested. All separations were done in less than 15 min and 70% were done in less than 4 min. The speed of the separations is the main advantage of the use of SFC compared to normal-phase HPLC. In addition, SFC is advantageous for preparative separations with easy solute recovery and solvent disposal.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0765.xml
+PMID	23898412
+Names of fungal species with the same epithet applied to different morphs: how to treat them.
+The abolition of the separate naming of different morphs of the same fungal species in 2011 will inevitably result in many name changes in some genera. The working practices commended here are intended to minimize one category of these changes, that which can arise as a consequence of an author using the epithet of an asexual morph when describing the sexual morph of the same species. We consider that name proposed for the sexual morph in such cases should be treated as a formal error for a new combination and not as a new species, and so be corrected. This is interpreted as applying even where the author indicated that a new species was being described and designated a type. We argue that those formalities were a result of the requirements of the rules then in force, as the author recognized that a morph of a named species was being described, and not a new hitherto unnamed species was being reported - but was barred from making a new combination so used the same epithet for the new morph name instead. Where a type with the sexual morph was designated for the sexual morph, under this interpretation that no longer has nomenclatural status, the type being that of the basionym. The material for the sexual morph indicated as a type, would be available for designation as an epitype, though a modern sequenced sample with both sexual and asexual morphs would be more informative as an epitype in many cases. A proposal to regularize the working practice commended here, and also the converse situation where the sexual morph typified name is the earlier, will be made to the 2017 Shenzhen Congress.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0768.xml
+PMID	24006615
+[Phenotyping by total oxidative hepatic capacity in patients undergoing laparoscopic cholecystectomy: two categories of patients and duration of post-anesthesia rehabilitation].
+In patients, undergoing laparoscopy cholecystectomy, two phenotype categories were identified on the basis of the total oxidative hepatic capacity determined by antipyrine test, which differed by duration of post-anesthesia rehabilitation. The potential of antipyrine phenotyping for individualisation of anesthetics' dosing is discussed.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0682.xml
+PMID	21192897
+[Risk stratified in the National Registry of Acute Coronary Syndromes at the IMSS].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0823.xml
+PMID	25764676
+[Chronic hepatitis C virus infection attenuates host antiviral innate immune response].
+The innate immune system is essential for controlling viral infection. Hepatitis C virus (HCV) is a causative agent of hepatocellular carcinoma. HCV evades host innate immune response and maintains persistent infection. RIG-I is a cytoplasmic viral RNA sensor and triggers the innate immune response. The Riplet ubiquitin ligase mediates K63-linked polyubiquitination of RIG-I, which is essential for RIG-I activation. Previous studies have shown that HCV NS3-4A protease cleaves RIG-I adaptor MAVS to escape host antiviral response. However, MAVS cleavage is supposed to be not sufficient for viral chronicity. Recently, we found that NS3-4A cleaves both MAVS and Riplet to attenuate RIG-I activation. These findings indicate that HCV NS3-4A cleaves several proteins to shut off antiviral innate immune response.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0976.xml
+PMID	30680189
+Optimization of the enzyme-assisted aqueous extraction of phenolic compounds from pistachio green hull.
+Phenolic compounds form an essential part of the human diet because of their functional properties. In this study, the extraction conditions of phenolic compounds from pistachio green hull were optimized by enzymatic method (using pectinase, cellulase, and tannase enzymes). For this purpose, the effective factors including the solid to solvent ratio, enzyme concentration, particles size, and extraction time were optimized. Also, the effect of enzymatic extraction on the antioxidant activity of the extracts were investigated using three different methods (DPPH˙, ABTS˙
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1127.xml
+PMID	31183766
+Predictors of Mammography Uptake Among Italian Women Aged 50-69: a Cross-sectional Study.
+Screening coverage is of concern in several countries, including Italy. The aim of the study is to assess predictors of participation in the mammography screening program at the Local Health Unit RMA (Rome, Italy). A telephone-based questionnaire was administered to randomly selected eligible women. The study population was interviewed by the personnel of the health center. Five hundred two women were interviewed, of which 264(52.6%) have attended the breast cancer screening program at least once. The attendees received the invitation letter more often than the non-attendees (88.3% vs. 77.7%; p = 0.002) and were more willing to participate (85.6% vs. 69.3%; p < 0.001). Employees were more among the non-attendees of the screening program (66% vs. 52.3%; p = 0.002). Age over-61 (OR = 2.75; 95%CI 1.84-4.09), receiving the invitation letter (OR = 2.54; 95%CI = 1.52-4.24), and intention to participate (OR = 3.09; 95%CI = 1.94-4.91) were significantly associated with participation in the screening program. Although the invitation rate of the Local Health Unit RMA has improved in recent years, the mammography uptake rate remains very low. The presence of opportunistic screening activities, younger age, and low educational status could explain the low participation rates. Organizational barriers (e.g., screening hours coinciding with work hours, screening facilities located far away) may also limit participation. Major efforts should be made towards the regulation of opportunistic screening activities and reorganization of the screening centers and communication strategies to better comply with the needs of the target population. In this light, the involvement of different healthcare professionals, especially general practitioners, and gynecologists, is crucial.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0155.xml
+PMID	4665145
+Fractures of the femoral neck in adolescence.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0370.xml
+PMID	11186292
+[Significance of social factors in man-microorganism interaction. Role of public health care in prevention and treatment of infectious diseases].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1001.xml
+PMID	31442896
+Bovine Cryptosporidium parvum field isolates differ in cytopathogenicity in HCT-8 monolayers.
+Suckling calves are prone to Cryptosporidium infection. The variable degree of clinical disease is influenced by keeping conditions and immune status of the host, but diversity of isolate virulence may also contribute. The aim of the current study was to evaluate the cytopathogenic effects of 26 C. parvum field isolates by using a MTT assay in HCT-8 cell monolayers. Cell viability of monolayers inoculated with oocysts of the field isolates varied considerably with values of 17.7% (± 5.1%) to 99.5% (± 7.1%). A standard deviation of 18.6% was detected for cell viability of the in house reference strain, which were tested alongside in every assay. Field isolates were grouped in three categories of cytopathogenicity. Probably the length of storage has an effect on the level of the cell destruction category detected post infection in vitro. The applied tool may help to better understand the variable course of cryptosporidiosis in the field.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0762.xml
+PMID	23802694
+Isolated versus pierre robin sequence cleft palates: are they different?
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0195.xml
+PMID	5867606
+[Eyeball injury caused by bee sting].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0361.xml
+PMID	10900188
+A coalescence approach to gene conversion.
+In this paper we develop a coalescent model with intralocus gene conversion. Such models are of increasing importance in the analysis of intralocus variability and linkage disequilibrium. We derive the distribution of the waiting time until a gene conversion event occurs in a sample in terms of the distribution of the length of the transferred segment, zeta. We do not assume any specific form of the distribution of zeta. Further, given that a gene conversion event occurs we find the distribution of (sigma, tau), the end points of the transferred segment and derive results on correlations between local trees in positions chi(1) and chi(2). Among other results we show that the correlation between the branch lengths of two local trees in the coalescent with gene conversion (and no recombination) decreases toward a nonzero constant when the distance between chi(1) and chi(2) increases. Finally, we show that a model including both recombination and gene conversion might account for the lack of intralocus associations found in, e.g., Drosophila melanogaster.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0441.xml
+PMID	13486154
+[Simultaneous ovarian and uterus carcinomas].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0814.xml
+PMID	25470555
+Explaining the "Pulse of Protoplasm": the search for molecular mechanisms of protoplasmic streaming.
+Explanations for protoplasmic streaming began with appeals to contraction in the eighteenth century and ended with appeals to contraction in the twentieth. During the intervening years, biologists proposed a diverse array of mechanisms for streaming motions. This paper focuses on the re-emergence of contraction among the molecular mechanisms proposed for protoplasmic streaming during the twentieth century. The revival of contraction is a result of a broader transition from colloidal chemistry to a macromolecular approach to the chemistry of proteins, the recognition of the phenomena of shuttle streaming and the pulse of protoplasm, and the influential analogy between protoplasmic streaming and muscle contraction.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0048.xml
+PMID	1455822
+[The modern concept of the diagnosis and treatment of bronchial asthma (a lecture)].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0194.xml
+PMID	5835380
+Inhibition of RNA phage growth by phenetyl alcohol.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0368.xml
+PMID	11111091
+Cholesterol and hepatic lipoprotein assembly and secretion.
+The assembly and secretion of apo B100 containing lipoproteins (i.e., VLDL) by the liver and cholesterol metabolism are interrelated on several different levels and for several different physiologic reasons. Firstly, hepatic VLDL is the major precursor for LDL, which in the human is the major vehicle responsible for transporting cholesterol to peripheral tissues. Secondly, cholesterol is supplied to many tissues by a specific uptake of LDL via LDL receptor, which is expressed in a regulated manner by most mammalian tissues. Thirdly, the rate of hepatic cholesterol biosynthesis and metabolism to bile acids correlates with production of VLDL. This apparent coordinate expression of cholesterol biosynthetic/catabolic enzymes and hepatic VLDL assembly/secretion are mediated at least in part through the sterol response element binding protein (SREBP) transcription factor family. Their gene targets include a plethora of enzymes that regulate glycolysis, energy production, lipogenesis and cholesterol catabolism. Studies of hepatoma cells overexpressing CYP7A1, the rate-limiting enzyme controlling bile acid synthesis, show that as a result of increased mature SREBP1, there is a coordinate induction of lipogenesis and the assembly and secretion of VLDL. These and additional studies show that the bile acid synthetic pathway and the VLDL assembly/secretion pathway are coordinately linked through SREBP-dependent transcription. Based on studies showing that within the liver acinus, the expression of CYP7A1 is mainly in the pericentral region while HMG-CoA reductase is mainly periportal, we propose that a 'metabolic zonal segregation' plays an important role in coordinate regulation of cholesterol and VLDL metabolism. This putative 'metabolic zonal segregation' may provide segregation of metabolic functions which may be mutually antagonistic. For example, there may be physiologic states in which the bile acid synthetic pathway may compete with the VLDL assembly/secretion pathway for a limited amount of cholesterol. Metabolic antagonism (e.g., competition for cholesterol) may be avoided via inducing SREBP-mediated transcription. Adaptation of catabolic hepatocytes to accommodate the expression of VLDL assembly/secretion may occur in response to activation of SREBP-mediated transcription. Support for these is discussed.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0227.xml
+PMID	6818387
+Oral manifestations of malnutrition II. The effect of minerals.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0947.xml
+PMID	29766500
+Konjac glucomannan octenyl succinate (KGOS) as an emulsifier for lipophilic bioactive nutrient encapsulation.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0606.xml
+PMID	18719261
+Cultural heritage. Shielding a Buddhist shrine from the howling desert sands.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0814.xml
+PMID	25485262
+Detection and potential utility of C-reactive protein in saliva of neonates.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0065.xml
+PMID	1955420
+The adsorption of bacteria to immobilized lectins.
+The agglutination of a selection of bacteria by some lectins was examined. The lectin from Codium fragile agglutinated seven strains of Salmonella typhimurium. The lectin from Helix pomatia agglutinated eight of 12 strains of Listeria monocytogenes and a further two strains gave a weak agglutination reaction. Helix pomatia lectin conjugated to magnetic microspheres enabled the adsorption of L. monocytogenes from suspension with subsequent elution by the competing ligand N-acetyl galactosamine. Affinity chromatography of a suspension of L. monocytogenes through a column of H. pomatia lectin immobilized on agarose, also adsorbed cells and enabled subsequent elution with N-acetyl galactosamine. The column technique enabled the more rapid adsorption of bacteria perhaps because of improved interactions between bacteria and immobilized lectin.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0399.xml
+PMID	12080121
+Adhesion of nanoparticles to vesicles: a Brownian dynamics simulation.
+We studied the interaction of bilayer vesicles and adhesive nanoparticles using a Brownian dynamics simulation. The nanoparticles are simple models of proteins or colloids. The adhering nanoparticle induces the morphological change of the vesicle: budding, formation of two vesicles in which only outer monolayers are connected, and fission. We also show that the nanoparticle promotes the fusion process: fusion-pore opening from a stalk intermediate, a neck-like structure that only connects outer monolayers of two vesicles. The nanoparticle bends the stalk, and induces the pore opening.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0805.xml
+PMID	25182299
+Reply to a letter from Dr Drago.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0227.xml
+PMID	6828527
+Methylphenidate decreases local glucose metabolism in the motor cortex.
+The local cerebral metabolism on glucose (l-CMRg) was evaluated in animals given methylphenidate (15 mg/kg) in order to investigate possible mechanisms of action of the drug. Significant increases in l-CMRg (p greater than 0.05) were found in the globus pallidus, entopeduncular nucleus, substantia nigra, subthalamic nucleus, inferior olive, red nucleus, lateral cerebellar cortex, ventral lateral nucleus of the thalamus and the midbrain reticular formation. Significant decreases (p greater than 0.05) in l-CMRg were found in the motor cortex. These results suggest possible mechanisms for methylphenidate's action in attention deficit disorders.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0860.xml
+PMID	26960829
+Concha Bullosa Mucopyocele: a Case Report.
+Concha bullosa (CB) is among the most common anatomic variations of sinonasal anatomy. Although usually asymptomatic, CB can occasionally cause nasal obstruction or headache. Obstructions within the mucociliary transport system can develop into a mucocele or mucopyocele. A 48-year-old female, with a history of progressive headache and nasal obstruction, was referred to our department. Paranasal sinus tomography revealed a nasal mass in the left nasal cavity resembling a mucopyocele in the middle turbinate. Under general anesthesia, the purulent material was aspirated, and the lateral part of the left turbinate was resected. Mucopyoceles are common within the paranasal sinuses, but uncommon with CB; thus, they should be considered in patients with a large hyperemic nasal mass.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0061.xml
+PMID	1849047
+ESR spectroscopy of flow-oriented cation radicals of phenothiazine derivatives and phenoxathiin intercalated in DNA.
+Several derivatives of the phenothiazine cation radicals intercalated into DNA have been investigated using a new flow orientation technique. The anisotropic hyperfine coupling constants of both the parallel and the perpendicular orientation relative to the magnetic field were measured and compared to previous results, which used different techniques. The phenoxathiin cation radical could also be stabilized by intercalation into DNA at pH 4, but the orientation technique revealed no further information due to the poor resolution of the experimental spectra.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0563.xml
+PMID	17333621
+[Voltage-activated potassium channels of the inhibitory interneurons of the hippocampus in culture].
+Potassium channels make up the largest family of voltage-activated channels and play a key role in maintenance of cell excitability and in transmission of information within the nervous system. The aim of this work was to find out the specific subtypes of voltage-activated potassium channels peculiar to GABAergic interneurons of rat hippocampal culture. It was shown that total depolarization-evoked outward potassium current in any interneuron studied had the activation threshold about -50 mV. The specific Kv1 channels' blocker a-DTX influenced neither amplitude nor kinetics of total current, thus we excluded the participation of these channels in its forming. The transient A-current made up 9.4+/-1.3% of the amplitude of total current and had low sensitivity to 4-AP that was an evidence of the presence of Kv4 channels in hippocampal interneurons. The slow inactivating component of integral potassium current was relatively small and had the time constant of inactivation 3 +/- 0.15 s that is typical for delayed rectifier potassium channels of Kv2 and Kv3 subfamilies. The main contribution (83 +/- 1.7 % of total amplitude) to the integral current belonged to the non-inactivating current. Prolonged depolarization of any interneuron tested to -20 mV evoked a steady non-inactivating outward current with amplitude 100-400 pA and activation threshold about -60 mV. Retigabine shifted its I-V plot to more negative values and increased the amplitude at -20 mV by 66+/-14%. These facts can be evidence of the participation of KCNQ channels subfamily in the forming of non-inactivating current. But selective blockers of KCNQ channels linopirdine and XE991 had very small influence on steady-state outward current that means the current appears owing to activity of linopirdine-insensitive forms of KCNQ channels or channels of a different, unknown family.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0169.xml
+PMID	5075362
+Carcinoma of the pancreas arising in the region of the uncinate process.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0839.xml
+PMID	26259642
+Time within reproductive season, but not age or inbreeding coefficient, affects seminal and sperm quality in the whooping crane (Grus americana).
+All living whooping cranes (Grus americana) are descended from 16 or fewer birds that remained alive in the early 1940s, a bottleneck that puts the species at potential risk for inbreeding depression. Although AI is commonly used in the management of the captive population of this species, little is known about seminal traits or factors affecting sperm quality in the whooping crane. In the present study, semen samples were collected from 29 adult males (age 3-27 years) during the early (March), mid (April) and late (May) breeding season over 2 consecutive years. The effects of donor age, time within reproductive season and level of inbreeding on seminal characteristics were analysed using regression and information-theoretic model selection. Only time within reproductive season significantly affected seminal traits, with total numbers of spermatozoa and proportions of pleiomorphisms increasing across the season. We conclude that, even with a highly restricted number of founders, there is no discernible influence of inbreeding (at the levels described) on sperm output or quality. Furthermore, although there is variance in seminal quality, the whooping crane produces significant numbers of motile spermatozoa throughout the breeding season, similar to values reported for the greater sandhill crane (Grus canadensis tabida).
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0728.xml
+PMID	22669306
+A new method for quantifying prenatal exposure to ethanol by microwave-assisted extraction (MAE) of meconium followed by gas chromatography-mass spectrometry (GC-MS).
+Ethanol is a legal and widely available substance. There are health and social consequences associated with its abuse. One of the most important problems is related to alcohol consumption during pregnancy. In fact, prenatal ethanol exposure can be associated with fetal alcohol spectrum disorder (FASD), a term used to describe a wide range of potentially lifelong effects that include physical, mental, behavioral, and learning disabilities. Fatty acid ethyl esters (FAEEs), which are non-oxidative metabolites of ethanol, are currently used as biomarkers of direct ethanol consumption in different matrices, including hair, blood, skin surface, and meconium. Analysis of these compounds in meconium reveals exposure to alcohol during the second and third trimesters of pregnancy. An important finding for evaluation of gestational ethanol exposure is the fact that FAEEs do not cross the placenta. Because they accumulate in the fetal gut from approximately the 20th week of gestation until birth, this provides a wide window of detection of chronic exposure to alcohol. The sum of the concentrations of all the FAEEs, with a cutoff of 2 nmol g(-1) or 600 ng g(-1) meconium, has been recommended as evidence of maternal alcohol use. We introduce a novel technique to quantify ethyl myristate, ethyl palmitate, ethyl stearate, and their deuterated analogues (as internal standards, IS) in meconium using microwave-assisted extraction (MAE) coupled with gas chromatography-mass spectrometry (GC-MS). Limits of detection and quantification were 50 and 100 ng g(-1) for all analytes except ethyl stearate (LOD 100 ng g(-1) and LOQ 500 ng g(-1)). Calibration curves were linear from the LOQ to 5000 ng g(-1). The validated method was applied to the analysis of 81 meconium samples.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0795.xml
+PMID	24885085
+A common-garden experiment to quantify evolutionary processes in copepods: the case of emamectin benzoate resistance in the parasitic sea louse Lepeophtheirus salmonis.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0866.xml
+PMID	27134497
+Daily Mean Temperature Affects Urolithiasis Presentation in Seoul: a Time-series Analysis.
+This study aimed to investigate the overall cumulative exposure-response and the lag response relationships between daily temperature and urolithiasis presentation in Seoul. Using a time-series design and distributing lag nonlinear methods, we estimated the relative risk (RR) of urolithiasis presentation associated with mean daily temperature, including the cumulative RR for a 20 days period, and RR for individual daily lag through 20 days. We analyzed data from 14,518 patients of 4 hospitals emergency department who sought medical evaluation or treatment of urolithiasis from 2005-2013 in Seoul. RR was estimated according to sex and age. Associations between mean daily temperature and urolithiasis presentation were not monotonic. Furthermore, there was variation in the exposure-response curve shapes and the strength of association at different temperatures, although in most cases RRs increased for temperatures above the 13°C reference value. The RRs for urolothiasis at 29°C vs. 13°C were 2.54 in all patients (95% confidence interval [CI]: 1.67-3.87), 2.59 in male (95% CI, 1.56-4.32), 2.42 in female (95% CI, 1.15-5.07), 3.83 in male less than 40 years old (95% CI, 1.78-8.26), and 2.47 in male between 40 and 60 years old (95% CI, 1.15-5.34). Consistent trends of increasing RR of urolithiasis presentation were observed within 5 days of high temperatures across all groups. Urolithiasis presentation increased with high temperature with higher daily mean temperatures, with the strongest associations estimated for lags of only a few days, in Seoul, a metropolitan city in Korea.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0461.xml
+PMID	14090117
+[MEDICAL EDUCATION IN AMERICA].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0371.xml
+PMID	11206239
+Cockroach allergy appears early in life in inner-city children with recurrent wheezing.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0847.xml
+PMID	26541333
+Continuous fungal treatment of non-sterile veterinary hospital effluent: pharmaceuticals removal and microbial community assessment.
+Source point treatment of effluents with a high load of pharmaceutical active compounds (PhACs), such as hospital wastewater, is a matter of discussion among the scientific community. Fungal treatments have been reported to be successful in degrading this type of pollutants and, therefore, the white-rot fungus Trametes versicolor was applied for the removal of PhACs from veterinary hospital wastewater. Sixty-six percent removal was achieved in a non-sterile batch bioreactor inoculated with T. versicolor pellets. On the other hand, the study of microbial communities by means of DGGE and phylogenetic analyses led us to identify some microbial interactions and helped us moving to a continuous process. PhAC removal efficiency achieved in the fungal treatment operated in non-sterile continuous mode was 44 % after adjusting the C/N ratio with respect to the previously calculated one for sterile treatments. Fungal and bacterial communities in the continuous bioreactors were monitored as well.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0751.xml
+PMID	23454746
+IgG4 subclass antibodies impair antitumor immunity in melanoma.
+Host-induced antibodies and their contributions to cancer inflammation are largely unexplored. IgG4 subclass antibodies are present in IL-10-driven Th2 immune responses in some inflammatory conditions. Since Th2-biased inflammation is a hallmark of tumor microenvironments, we investigated the presence and functional implications of IgG4 in malignant melanoma. Consistent with Th2 inflammation, CD22+ B cells and IgG4(+)-infiltrating cells accumulated in tumors, and IL-10, IL-4, and tumor-reactive IgG4 were expressed in situ. When compared with B cells from patient lymph nodes and blood, tumor-associated B cells were polarized to produce IgG4. Secreted B cells increased VEGF and IgG4, and tumor cells enhanced IL-10 secretion in cocultures. Unlike IgG1, an engineered tumor antigen-specific IgG4 was ineffective in triggering effector cell-mediated tumor killing in vitro. Antigen-specific and nonspecific IgG4 inhibited IgG1-mediated tumoricidal functions. IgG4 blockade was mediated through reduction of FcγRI activation. Additionally, IgG4 significantly impaired the potency of tumoricidal IgG1 in a human melanoma xenograft mouse model. Furthermore, serum IgG4 was inversely correlated with patient survival. These findings suggest that IgG4 promoted by tumor-induced Th2-biased inflammation may restrict effector cell functions against tumors, providing a previously unexplored aspect of tumor-induced immune escape and a basis for biomarker development and patient-specific therapeutic approaches.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0675.xml
+PMID	20974809
+Posttranscriptional suppression of proto-oncogene c-fms expression by vigilin in breast cancer.
+cis-acting elements found in 3'-untranslated regions (UTRs) are regulatory signals determining mRNA stability and translational efficiency. By binding a novel non-AU-rich 69-nucleotide (nt) c-fms 3' UTR sequence, we previously identified HuR as a promoter of c-fms proto-oncogene mRNA. We now identify the 69-nt c-fms mRNA 3' UTR sequence as a cellular vigilin target through which vigilin inhibits the expression of c-fms mRNA and protein. Altering association of either vigilin or HuR with c-fms mRNA in vivo reciprocally affected mRNA association with the other protein. Mechanistic studies show that vigilin decreased c-fms mRNA stability. Furthermore, vigilin inhibited c-fms translation. Vigilin suppresses while HuR encourages cellular motility and invasion of breast cancer cells. In summary, we identified a competition for binding the 69-nt sequence, through which vigilin and HuR exert opposing effects on c-fms expression, suggesting a role for vigilin in suppression of breast cancer progression.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0534.xml
+PMID	16419054
+Percutaneous edge-to-edge mitral valve repair: 2-year follow-up in the first human case.
+We report the first-in-human mitral valve repair using percutaneous technology that creates a "surgical-like" edge-to-edge repair. A catheter-delivered clip was introduced transseptally from the femoral vein, advanced through the mitral orifice, retracted to grasp the leaflets, and detached to create a functional double-orifice valve. The patient had an uncomplicated post-procedural course. Echocardiography at 1- and 2-years post procedure showed mild mitral regurgitation and positive ventricular remodeling. The success of this case suggests that percutaneous mitral valve repair may be a feasible therapy for certain patients suffering from mitral regurgitation.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0998.xml
+PMID	31351737
+Neurological outcome and modifiable events after out-of-hospital cardiac arrest in patients managed in a tertiary cardiac centre: A ten years register.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0690.xml
+PMID	21449295
+Governors' Committee on Surgical Infections and Environmental Risks: an update.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0219.xml
+PMID	6594628
+Cycle accidents.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0167.xml
+PMID	5034010
+Oral diuretics and renal pain--a provocative test.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0876.xml
+PMID	27464975
+δGABAA Receptors Are Necessary for Synaptic Plasticity in the Hippocampus: Implications for Memory Behavior.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1152.xml
+PMID	29315074
+Precision, accuracy, cross reactivity and comparability of serum indices measurement on Abbott Architect c8000, Beckman Coulter AU5800 and Roche Cobas 6000 c501 clinical chemistry analyzers.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0642.xml
+PMID	19892619
+Drug treatments for spasticity.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0418.xml
+PMID	12767453
+Idiopathic stabbing headache: clinical characteristics of children and adolescents.
+Very few cases of short-lasting headaches have been reported in children and adolescents. The aim of this study is to describe a group of patients in the pediatric age group with short attacks of head pain and to demonstrate that they are not easily classified according to existing criteria for adults. We describe 23 subjects in retrospect, 12 males and 11 females, with brief attacks of headache, stabbing in nature, self-limited, lasting from a few seconds to 15 min. This sample was taken from a total population of 548 children and adolescents referred to our Pediatric Headache Unit during the years 1995-1999. Mean age at onset of symptomatology was 9 years. The localization of the headache was bilateral in 60% of the patients and unilateral in 40%. The pain was either unifocal at the orbit or temple (60%) or multifocal (40%). In 24% of the children, the interictal awake EEG showed infrequent posterior slow-waves. In 12 patients we used paracetamol with a good response. Although these painful episodes shared some aspects with the adult form of idiopathic stabbing headache, they had different durations of attack, and other primary headache syndromes did not accompany them either at the time of presentation or during the following 2 years. Short attacks of headache are present in the pediatric age group and are not easily classified according to the International Headache Society criteria. Their nature and correlation with migraine remains unclear. We propose follow-up of these subjects to obtain a better description of the natural history of these forms of headache in the pediatric age group.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1042.xml
+PMID	32692411
+Stratum corneum occlusion induces water transformation towards lower bonding state: a molecular level in vivo study by confocal Raman microspectroscopy.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0678.xml
+PMID	21054301
+A novel emergency medical services-based program to identify and assist older adults in a rural community.
+Rural-dwelling older adults experience unique challenges related to accessing medical and social services. This article describes the development, implementation, and experience of a novel, community-based program to identify rural-dwelling older adults with unmet medical and social needs that leveraged the existing emergency medical services (EMS) system. The program specifically included geriatrics training for EMS providers; screening of older adult EMS patients for falls, depression, and medication management strategies by EMS providers; communication of EMS findings to community-based case managers; in-home evaluation by case managers; and referral to community resources for medical and social interventions. Measures used to evaluate the program included patient needs identified by EMS or the in-home assessment, referrals provided to patients, and patient satisfaction. EMS screened 1,231 of 1,444 visits to older patients (85%). Of those receiving specific screens, 45% had fall-related, 69% medication management-related, and 20% depression-related needs identified. One hundred and seventy-one eligible EMS patients who could be contacted accepted the in-home assessment. Of the 153 individuals completing the assessment, 91% had identified needs and received referrals or interventions. This project demonstrated that screening by EMS during emergency care for common geriatric syndromes and linkage to case managers is feasible in this rural community, although many will refuse the services. Further patient evaluations by case managers, with subsequent interventions by existing service providers as required, can facilitate the needed linkages between vulnerable rural-dwelling older adults and needed community-based social and medical services.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0348.xml
+PMID	10501012
+Adopting children with attachment problems.
+This article describes children with significant attachment problems and summarizes the actions needed to increase the probability that such children can be successfully adopted. Healthy and disordered attachment patterns are detailed, as well as the principles and strategies that are important in parenting such children and the parenting characteristics that should be sought in selecting families for children with attachment disorder. Psychological treatment and other postadoption services necessary to support the adoption and the child's ability to successfully form a secure attachment with the adoptive parents are also highlighted.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1159.xml
+PMID	33386984
+Is a verification phase needed to determine [Formula: see text]O
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0597.xml
+PMID	18416169
+[Peculiarities of neuro-psychological and autonomic disorders in patients with remote consequences of closed craniocerebral injury].
+62 patients who had undergone mild craniocerebral injury have taken part in the study. All patients had a complex examination before the treatment. This examination included together with laboratory and instrumental methods the following scales: vegetovascular Vein's scale for a patient and physician, feeling scale (psychological scale). All patients received the following treatment: analgetics, vasoactive agents, tranquilizers, vitamins of the group B, magnesium sulfate, biostimulants, amino acids, physiotherapy, acupuncture, Patients of the first group received additionally noofen and patients of the second group received aminalon. The duration of the treatment was about two months. Positive dynamics of the course of the disease was noted in patients with late closed craniocerebral injury effect after a complex treatment including nootropic agents was done. However noofen was more effective in patients with closed craniocerebral injury late effect who had asthenic syndrome and vegetative disorders.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0040.xml
+PMID	1211280
+[Our experience in the treatment of gonococcsis].
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0222.xml
+PMID	6669196
+[Pain tolerance and the effect of the treatment of headache by pinpoint stimulation of receptors].
+In 53 patients with vasomotor headache treated by one of the methods of analgesic stimulation--pinpoint receptor stimulation (prs) the correlation was assessed between pain tolerance and the effect of prs. Pain tolerance was determined by the ischaemic tourniquet test of Smith. It was found that in patients with low pain tolerance much better therapeutic results were obtained (87.5%) than in patients with high pain tolerance (38.5%). No relationship was demonstrated between pain tolerance and the duration of improvement after prs.l Pain tolerance study may be important in qualification of patients for treatment by analgesic stimulation.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0004.xml
+PMID	98933
+[Some aspects relating to the aflatoxin generation during the self-heating of cereals].
+In a stored batch of grain which was already affected by mould-formation tests were carried out with the known aflatoxin producer Aspergillus flavus. A significantly lower aflatoxin production ensued if the mould growth was not connected with self-heating of the stored product. However, in conformity with increasing mould formation the germinating power was adversely affected and the significant signs (fatty acid number, reductive and none-reductive sugars) were influenced in the grain, irrelevently whether or not this led to self-heating. It appears obvious that as the self-heating increases in the stored product, the optimal temperature range favourable for the Aspergillus flavus is rapidly exceeding and this caused restriction to the aflatoxin formation. This leads to the conclusion that the contamination on the outer layer by mycotoxines is more significant on the outer layers than the more or less strong mould formation in the interior (so-called-mouldly pockets) which ensued through the self-heating fenomena.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0165.xml
+PMID	4961274
+Autonomic control of cerebral blood flow measured by electromagnetic flowmeters.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0702.xml
+PMID	21841206
+Anacetrapib promotes reverse cholesterol transport and bulk cholesterol excretion in Syrian golden hamsters.
+Cholesteryl ester transfer protein (CETP) transfers cholesteryl ester (CE) and triglyceride between HDL and apoB-containing lipoproteins. Anacetrapib (ANA), a reversible inhibitor of CETP, raises HDL cholesterol (HDL-C) and lowers LDL cholesterol in dyslipidemic patients; however, the effects of ANA on cholesterol/lipoprotein metabolism in a dyslipidemic hamster model have not been demonstrated. To test whether ANA (60 mg/kg/day, 2 weeks) promoted reverse cholesterol transport (RCT), ³H-cholesterol-loaded macrophages were injected and (3)H-tracer levels were measured in HDL, liver, and feces. Compared to controls, ANA inhibited CETP (94%) and increased HDL-C (47%). ³H-tracer in HDL increased by 69% in hamsters treated with ANA, suggesting increased cholesterol efflux from macrophages to HDL. ³H-tracer in fecal cholesterol and bile acids increased by 90% and 57%, respectively, indicating increased macrophage-to-feces RCT. Mass spectrometry analysis of HDL from ANA-treated hamsters revealed an increase in free unlabeled cholesterol and CE. Furthermore, bulk cholesterol and cholic acid were increased in feces from ANA-treated hamsters. Using two independent approaches to assess cholesterol metabolism, the current study demonstrates that CETP inhibition with ANA promotes macrophage-to-feces RCT and results in increased fecal cholesterol/bile acid excretion, further supporting its development as a novel lipid therapy for the treatment of dyslipidemia and atherosclerotic vascular disease.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0805.xml
+PMID	25200563
+Silyl enol ether Prins cyclization: diastereoselective formation of substituted tetrahydropyran-4-ones.
+A diastereoselective synthesis of cis-2,6-disubstituted tetrahydropyran-4-ones was developed. The key step of this methodology, a silyl enol ether Prins cyclization, was promoted by a condensation reaction between a hydroxy silyl enol ether and an aldehyde to afford substituted tetrahydropyran-4-ones. The cyclization was tolerant of many functional groups, and the modular synthesis of the hydroxy silyl enol ether allowed for the formation of more than 30 new tetrahydropyran-4-ones with up to 97% yield and >95:5 dr. The cyclization step forms new carbon-carbon and carbon-oxygen bonds, as well as a quaternary center with good diastereoselectivity. The method provides a versatile route for the synthesis of substituted tetrahydropyrans.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0560.xml
+PMID	17248484
+The Position of ru-2 and qv with Respect to the FLECKED Translocation in the Mouse.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n0474.xml
+PMID	14487409
+Stabilizing effect of cystine on antigenicity of poliovirus.
+
+/raid/tanwei/data/pubmed/baseline/pubmed21n1019.xml
+PMID	31973981
+Increased psychological symptom burden in patients with pancreatic cancer: A population-based cohort study.
+
+/raid/tanwei/data/pubmed/updatefiles/pubmed21n1063.xml
