@@ -1,0 +1,1940 @@
+{
+  "(S)-9-(2,3-dihydroxypropyl)adenine": [
+    "Pharmacologic Substance"
+  ],
+  "Rous sarcoma virus": [
+    "Virus"
+  ],
+  "protein kinases": [
+    "Enzyme"
+  ],
+  "aliphatic nucleoside analogues": [
+    "Pharmacologic Substance"
+  ],
+  "vaccinia": [
+    "Virus"
+  ],
+  "vesicular stomatitis virus": [
+    "Virus"
+  ],
+  "9-[(RS)-2,3-diazidopropyl]adenine": [
+    "Pharmacologic Substance"
+  ],
+  "DHPA": [
+    "Pharmacologic Substance"
+  ],
+  "3,4-dihydroxybutyl": [
+    "Biologically Active Substance"
+  ],
+  "60 kD": [
+    "Biologically Active Substance"
+  ],
+  "52 kD": [
+    "Biologically Active Substance"
+  ],
+  "Ro/SSA antigen": [
+    "Biologically Active Substance",
+    "Amino Acid, Peptide, or Protein",
+    "Immunologic Factor"
+  ],
+  "anti-60 kD antibodies": [
+    "Immunologic Factor"
+  ],
+  "anti-52 kD antibodies": [
+    "Immunologic Factor"
+  ],
+  "autoanti-Ro/SSA response": [
+    "Immunologic Factor"
+  ],
+  "native protein": [
+    "Biologically Active Substance"
+  ],
+  "denatured protein": [
+    "Biologically Active Substance"
+  ],
+  "anti-La/SSB": [
+    "Immunologic Factor"
+  ],
+  "anti-Ro/SSA": [
+    "Immunologic Factor"
+  ],
+  "anti-U1 RNP": [
+    "Immunologic Factor"
+  ],
+  "HLA-B8": [
+    "Molecular Sequence",
+    "Molecular Function"
+  ],
+  "HLA-DR3": [
+    "Molecular Sequence",
+    "Fully Formed Anatomical Structure",
+    "Molecular Function"
+  ],
+  "Japanese": [
+    "Population Group"
+  ],
+  "Sjögren's syndrome": [
+    "Disease or Syndrome"
+  ],
+  "HLA-A": [
+    "Molecular Sequence",
+    "Molecular Function"
+  ],
+  "HLA-C": [
+    "Molecular Sequence",
+    "Molecular Function"
+  ],
+  "HLA-DR": [
+    "Molecular Sequence",
+    "Fully Formed Anatomical Structure",
+    "Molecular Function"
+  ],
+  "HLA-DQ": [
+    "Molecular Sequence",
+    "Fully Formed Anatomical Structure",
+    "Molecular Function"
+  ],
+  "HLA-DRw8": [
+    "Molecular Sequence"
+  ],
+  "HLA-DRw52": [
+    "Molecular Sequence"
+  ],
+  "autoantibodies": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "recombinant Ro": [
+    "Biologically Active Substance",
+    "Biomedical or Dental Material"
+  ],
+  "recombinant La protein": [
+    "Biologically Active Substance",
+    "Biomedical or Dental Material"
+  ],
+  "systemic lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "ELISA": [
+    "Laboratory Procedure",
+    "Diagnostic Procedure"
+  ],
+  "central European": [
+    "Population Group"
+  ],
+  "MHC genes": [
+    "Gene or Genome"
+  ],
+  "SLE Study Group": [
+    "Organization",
+    "Research Activity"
+  ],
+  "chick embryo fibroblasts": [
+    "Cell"
+  ],
+  "cellular protein kinases": [
+    "Enzyme"
+  ],
+  "primary rabbit kidney cell cultures": [
+    "Cell"
+  ],
+  "(RS)-2,3-diazidopropyl]adenine": [
+    "Pharmacologic Substance"
+  ],
+  "dihydroxybutyl analogues": [
+    "Pharmacologic Substance"
+  ],
+  "Ro/SSA autoantigen": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "isoform families": [
+    "Functional Concept"
+  ],
+  "Western blot": [
+    "Diagnostic Procedure"
+  ],
+  "Japanese patients": [
+    "Human"
+  ],
+  "anti-SSA(Ro)": [
+    "Immunologic Factor"
+  ],
+  "Ro/SSA": [
+    "Biologically Active Substance"
+  ],
+  "52 kD Ro/SSA": [
+    "Biologically Active Substance"
+  ],
+  "60 kD Ro/SSA": [
+    "Biologically Active Substance"
+  ],
+  "recombinant 52 kD Ro/SSA fusion protein": [
+    "Biologically Active Substance"
+  ],
+  "hY-RNAs": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "cutaneous lupus lesions": [
+    "Disease or Syndrome"
+  ],
+  "keratinocytes": [
+    "Cell"
+  ],
+  "UVB": [
+    "Environmental Effect of Humans",
+    "Physical Object"
+  ],
+  "17-beta oestradiol": [
+    "Hormone"
+  ],
+  "SLE": [
+    "Disease or Syndrome"
+  ],
+  "Ro/SS-A": [
+    "Fully Formed Anatomical Structure",
+    "Biologically Active Substance"
+  ],
+  "calreticulin/Ro": [
+    "Biologically Active Substance"
+  ],
+  "La/SS-B": [
+    "Fully Formed Anatomical Structure",
+    "Biologically Active Substance"
+  ],
+  "viruses": [
+    "Organism"
+  ],
+  "Epstein-Barr virus": [
+    "Virus"
+  ],
+  "B-lymphoblastoid cell lines": [
+    "Cell"
+  ],
+  "MHC class I": [
+    "Biologically Active Substance"
+  ],
+  "immunoglobulin": [
+    "Biologically Active Substance",
+    "Therapeutic or Preventive Procedure"
+  ],
+  "autoantigens": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "IgG antibodies": [
+    "Body Substance"
+  ],
+  "60-kD SSA/Ro protein": [
+    "Biologically Active Substance"
+  ],
+  "synthetic peptides": [
+    "Biologically Active Substance",
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "N-": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "C-": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "residues 21-41": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "anti-SSA antibodies": [
+    "Immunologic Factor"
+  ],
+  "humoral immune response": [
+    "Physiologic Function"
+  ],
+  "recombinant Ro 60 kDa proteins": [
+    "Biologically Active Substance"
+  ],
+  "connective tissue diseases": [
+    "Disease or Syndrome"
+  ],
+  "amino-terminal": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "carboxyl-terminal": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "overlapping peptides": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "Ro ribonucleoprotein": [
+    "Biologically Active Substance"
+  ],
+  "Y RNAs": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "Ro protein": [
+    "Biologically Active Substance"
+  ],
+  "Ro60": [
+    "Biologically Active Substance"
+  ],
+  "Ro52": [
+    "Biologically Active Substance"
+  ],
+  "La protein": [
+    "Biologically Active Substance"
+  ],
+  "SSA/Ro": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "SSB/La": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "polypeptides": [
+    "Biologically Active Substance"
+  ],
+  "Sjogren's syndrome": [
+    "Disease or Syndrome"
+  ],
+  "denatured form": [
+    "Biologically Active Substance"
+  ],
+  "single phosphorylated protein": [
+    "Biologically Active Substance"
+  ],
+  "calregulin": [
+    "Biologically Active Substance"
+  ],
+  "RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "DNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "zinc finger motifs": [
+    "Functional Concept"
+  ],
+  "mouse rptl protein": [
+    "Biologically Active Substance"
+  ],
+  "T-cell regulating peptide": [
+    "Biologically Active Substance"
+  ],
+  "precursors of 5S RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "tRNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "cell cycle": [
+    "Physiologic Function"
+  ],
+  "Angiotensin II": [
+    "Biologically Active Substance"
+  ],
+  "heptapeptide 1-7-angiotensin II": [
+    "Biologically Active Substance"
+  ],
+  "hexapeptide 2-7-angiotensin II": [
+    "Biologically Active Substance"
+  ],
+  "pentapeptide 3-7-angiotensin II": [
+    "Biologically Active Substance"
+  ],
+  "motility": [
+    "Physiologic Function"
+  ],
+  "stereotypy": [
+    "Mental or Behavioral Dysfunction"
+  ],
+  "learning": [
+    "Mental Process"
+  ],
+  "conditioned avoidance responses": [
+    "Mental or Behavioral Dysfunction"
+  ],
+  "recall": [
+    "Mental Process"
+  ],
+  "passive avoidance behaviour": [
+    "Mental or Behavioral Dysfunction"
+  ],
+  "aversion": [
+    "Mental Process"
+  ],
+  "apomorphine": [
+    "Biologically Active Substance"
+  ],
+  "amphetamine": [
+    "Biologically Active Substance"
+  ],
+  "cross-reactive binding": [
+    "Physiologic Function"
+  ],
+  "intracellular Ro ribonucleoprotein complex": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "related autoimmune diseases": [
+    "Disease or Syndrome"
+  ],
+  "antigenic stimulus": [
+    "Physiologic Function"
+  ],
+  "immunoglobulin G": [
+    "Immunologic Factor"
+  ],
+  "patient autoanti-Ro antibodies": [
+    "Immunologic Factor"
+  ],
+  "antigen-induced rabbit anti-Ro serum": [
+    "Immunologic Factor"
+  ],
+  "Fc domain": [
+    "Biologically Active Substance"
+  ],
+  "F(ab')2 fragments": [
+    "Biologically Active Substance"
+  ],
+  "Fc fragments": [
+    "Biologically Active Substance"
+  ],
+  "cyanogen bromide digestion fragments": [
+    "Biologically Active Substance"
+  ],
+  "hinge region": [
+    "Functional Concept"
+  ],
+  "human hybridoma monoclonal anti-Sm": [
+    "Biologically Active Substance"
+  ],
+  "anti-U1RNP antibodies": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "normal human lymphocytes": [
+    "Cell"
+  ],
+  "human:human hybridomas": [
+    "Cell"
+  ],
+  "monoclonal anti-Sm/RNP antibodies": [
+    "Biologically Active Substance"
+  ],
+  "normal human tonsillar lymphocytes": [
+    "Cell"
+  ],
+  "lymphoblastoid B cell line GM4672": [
+    "Cell"
+  ],
+  "Sm/RNP": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "ssDNA": [
+    "Fully Formed Anatomical Structure",
+    "Biologically Active Substance"
+  ],
+  "U1RNP-A, Sm-B'/B, Sm-D and Sm-E proteins": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "conformational epitopes": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "complete heart block": [
+    "Pathologic Function"
+  ],
+  "anti-Ro antibody": [
+    "Biologically Active Substance"
+  ],
+  "maternal serum": [
+    "Body Substance"
+  ],
+  "fetus": [
+    "Organism",
+    "Anatomical Structure"
+  ],
+  "subacute cutaneous lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "U1RNP antibody-positive neonatal lupus": [
+    "Disease or Syndrome"
+  ],
+  "acrylamide:bisacrylamide": [
+    "Chemical Viewed Structurally"
+  ],
+  "SDS-polyacrylamide gel": [
+    "Physical Object"
+  ],
+  "Hodgkin's disease": [
+    "Disease or Syndrome"
+  ],
+  "non-Hodgkin's lymphoma": [
+    "Disease or Syndrome"
+  ],
+  "dsDNA": [
+    "Fully Formed Anatomical Structure",
+    "Biologically Active Substance"
+  ],
+  "Poly (I)": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Poly (G)": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "cardiolipin": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "histones": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "RNP": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Sm": [
+    "Fully Formed Anatomical Structure",
+    "Biologically Active Substance"
+  ],
+  "Ro (SS/A)": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "La (SS/B)": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "anti-DNA idiotype (16/6)": [
+    "Biologically Active Substance"
+  ],
+  "EMLA": [
+    "Clinical Drug"
+  ],
+  "lidocaine": [
+    "Pharmacologic Substance"
+  ],
+  "prilocaine": [
+    "Pharmacologic Substance"
+  ],
+  "Tegaderm": [
+    "Medical Device"
+  ],
+  "ANA": [
+    "Immunologic Factor"
+  ],
+  "rheumatic diseases": [
+    "Disease or Syndrome"
+  ],
+  "carbonic anhydrase": [
+    "Enzyme"
+  ],
+  "juvenile chronic arthritis": [
+    "Disease or Syndrome"
+  ],
+  "uveitis": [
+    "Disease or Syndrome"
+  ],
+  "FPLC": [
+    "Machine Activity"
+  ],
+  "DR3": [
+    "Biologically Active Substance"
+  ],
+  "primary Sjögren's syndrome": [
+    "Disease or Syndrome"
+  ],
+  "HLA": [
+    "Biologically Active Substance"
+  ],
+  "Caucasian": [
+    "Population Group"
+  ],
+  "extraglandular manifestations": [
+    "Pathologic Function"
+  ],
+  "homozygosity": [
+    "Genetic Function"
+  ],
+  "disease": [
+    "Disease or Syndrome"
+  ],
+  "anti-nuclear factor": [
+    "Immunologic Factor"
+  ],
+  "rheumatoid factor": [
+    "Immunologic Factor"
+  ],
+  "young females": [
+    "Age Group"
+  ],
+  "older females": [
+    "Age Group"
+  ],
+  "males": [
+    "Gender"
+  ],
+  "family study": [
+    "Research Activity"
+  ],
+  "community survey": [
+    "Research Activity"
+  ],
+  "anti-Ro autoantibodies": [
+    "Immunologic Factor",
+    "Antibody"
+  ],
+  "clinical significance": [
+    "Clinical Attribute"
+  ],
+  "Ro/SS-A and La/SS-B": [
+    "Biologically Active Substance"
+  ],
+  "IgG": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "counter-immunoelectrophoresis": [
+    "Diagnostic Procedure"
+  ],
+  "immunoblotting technique": [
+    "Diagnostic Procedure"
+  ],
+  "oligoclonal B-cell proliferation": [
+    "Cell Function"
+  ],
+  "congenital heart block": [
+    "Pathologic Function",
+    "Disease or Syndrome"
+  ],
+  "calreticulin": [
+    "Biologically Active Substance",
+    "Protein"
+  ],
+  "lambda Ral-1 antigen": [
+    "Biologically Active Substance"
+  ],
+  "Onchocerca volvulus": [
+    "Organism"
+  ],
+  "recombinant cDNA clone": [
+    "Molecular Biology Research Technique"
+  ],
+  "onchocerciasis": [
+    "Disease or Syndrome"
+  ],
+  "Liberian": [
+    "Population Group"
+  ],
+  "monoclonal antibody": [
+    "Biologically Active Substance"
+  ],
+  "WiL-2 cell": [
+    "Cell"
+  ],
+  "Ultraviolet radiation": [
+    "Physical Object"
+  ],
+  "UVR": [
+    "Physical Object"
+  ],
+  "human keratinocytes": [
+    "Cell"
+  ],
+  "in vitro": [
+    "Research Activity"
+  ],
+  "antinuclear antibodies": [
+    "Biologically Active Substance"
+  ],
+  "connective tissue disease": [
+    "Disease or Syndrome"
+  ],
+  "UVA": [
+    "Physical Object"
+  ],
+  "extractable nuclear antigens": [
+    "Biologically Active Substance"
+  ],
+  "RnP": [
+    "Biologically Active Substance"
+  ],
+  "single or double-stranded DNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "protein synthesis": [
+    "Molecular Function"
+  ],
+  "basal keratinocytes": [
+    "Cell"
+  ],
+  "neonatal": [
+    "Age Group"
+  ],
+  "Disseminated lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "delivery": [
+    "Therapeutic or Preventive Procedure"
+  ],
+  "generalised convulsions": [
+    "Sign or Symptom"
+  ],
+  "coma": [
+    "Sign or Symptom"
+  ],
+  "labile transitory hypertension": [
+    "Sign or Symptom"
+  ],
+  "massive proteinuria": [
+    "Sign or Symptom"
+  ],
+  "hyperthermia": [
+    "Sign or Symptom"
+  ],
+  "agranulocytosis": [
+    "Cell or Molecular Dysfunction"
+  ],
+  "infant": [
+    "Human"
+  ],
+  "pregnancy": [
+    "Physiologic Function"
+  ],
+  "renal failure": [
+    "Pathologic Function"
+  ],
+  "cerebral complications": [
+    "Pathologic Function"
+  ],
+  "spontaneous abortion": [
+    "Pathologic Function"
+  ],
+  "anticardiolipin antibody": [
+    "Biologically Active Substance"
+  ],
+  "anti-SSA": [
+    "Biologically Active Substance"
+  ],
+  "congenital auriculo-ventricular blocks": [
+    "Pathologic Function"
+  ],
+  "immunosuppressants": [
+    "Pharmacologic Substance"
+  ],
+  "corticoids": [
+    "Pharmacologic Substance"
+  ],
+  "aspirin": [
+    "Pharmacologic Substance"
+  ],
+  "plasmaphoresis": [
+    "Therapeutic or Preventive Procedure"
+  ],
+  "subacute cutaneous lupus erythematosus 2": [
+    "Disease or Syndrome"
+  ],
+  "sera": [
+    "Body Substance"
+  ],
+  "mothers": [
+    "Human"
+  ],
+  "neonatal lupus syndrome": [
+    "Disease or Syndrome"
+  ],
+  "hematologic cytopenias": [
+    "Pathologic Function"
+  ],
+  "heart block": [
+    "Pathologic Function"
+  ],
+  "photosensitive skin rashes": [
+    "Sign or Symptom"
+  ],
+  "genetic associations": [
+    "Molecular Function"
+  ],
+  "histocompatibility alleles DQ1 and DQ2": [
+    "Gene or Genome"
+  ],
+  "T-cell receptor beta chain gene": [
+    "Gene or Genome"
+  ],
+  "quantitative assay": [
+    "Diagnostic Procedure"
+  ],
+  "detection of anti-Ro/SS-A and anti-LA/SS-B autoantibodies": [
+    "Diagnostic Procedure"
+  ],
+  "autoimmune diseases": [
+    "Disease or Syndrome"
+  ],
+  "quantitative assays": [
+    "Diagnostic Procedure"
+  ],
+  "E. coli": [
+    "Bacterium"
+  ],
+  "recombinant antigens": [
+    "Biologically Active Substance"
+  ],
+  "enzyme-linked immunosorbent assays": [
+    "Diagnostic Procedure"
+  ],
+  "counterimmunoelectrophoresis": [
+    "Diagnostic Procedure"
+  ],
+  "RNA-precipitation assay": [
+    "Diagnostic Procedure"
+  ],
+  "HeLa immunoblotting test": [
+    "Diagnostic Procedure"
+  ],
+  "prenatal testing": [
+    "Diagnostic Procedure"
+  ],
+  "2'-deoxy-2'-fluoro-beta-D-arabinofuranosyl)-5-iodocytosine (FIAC)": [
+    "Nucleoside"
+  ],
+  "1-(2'-deoxy-2'-fluoro-beta-D-arabinofuranosyl)-5-methyluracil (FMAU)": [
+    "Nucleoside"
+  ],
+  "DNA polymerase": [
+    "Enzyme"
+  ],
+  "hepadnaviruses": [
+    "Virus"
+  ],
+  "woodchucks": [
+    "Mammal"
+  ],
+  "woodchuck hepatitis virus": [
+    "Virus"
+  ],
+  "ducks": [
+    "Bird"
+  ],
+  "duck hepatitis B virus (DHBV)": [
+    "Virus"
+  ],
+  "liver": [
+    "Fully Formed Anatomical Structure",
+    "Body Part, Organ, or Organ Component"
+  ],
+  "serum": [
+    "Body Substance"
+  ],
+  "vidarabine monophosphate (ara-AMP)": [
+    "Clinical Drug"
+  ],
+  "toxicity": [
+    "Pathologic Function"
+  ],
+  "Pharmacokinetic studies": [
+    "Research Activity"
+  ],
+  "Anti-Ro/SS-A": [
+    "Antibody"
+  ],
+  "anti-La/SS-B": [
+    "Antibody"
+  ],
+  "recombinant Ro (SS-A)": [
+    "Protein"
+  ],
+  "beta-galactosidase fusion protein (beta-gal-Ro)": [
+    "Protein"
+  ],
+  "Western blotting": [
+    "Laboratory Procedure"
+  ],
+  "antigenicity": [
+    "Biologic Function"
+  ],
+  "60-kd human Ro (SS-A)": [
+    "Protein"
+  ],
+  "denaturation": [
+    "Molecular Function"
+  ],
+  "Ro (SS-A) precipitin": [
+    "Diagnostic Procedure"
+  ],
+  "Ro ribonucleoprotein particles": [
+    "Cell Component"
+  ],
+  "La polypeptide": [
+    "Protein"
+  ],
+  "hY5 RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY4 RNA": [
+    "Molecular Sequence",
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY1 RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY3 RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "HeLa cells": [
+    "Cell"
+  ],
+  "snRNPs": [
+    "Molecular Sequence"
+  ],
+  "scRNPs": [
+    "Molecular Sequence"
+  ],
+  "hY RNAs": [
+    "Molecular Sequence"
+  ],
+  "erythrocyte Ro ribonucleoproteins": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Ro autoantigen": [
+    "Immunologic Factor"
+  ],
+  "mammalian cellular ribonucleoprotein": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "hY1 and hY4 Ro RNAs": [
+    "Molecular Sequence"
+  ],
+  "polymerase chain reaction": [
+    "Molecular Biology Research Technique"
+  ],
+  "cDNA library": [
+    "Molecular Sequence",
+    "Biomedical or Dental Material"
+  ],
+  "Northern blot analysis": [
+    "Molecular Biology Research Technique"
+  ],
+  "ribonuclease inhibition activity": [
+    "Molecular Function"
+  ],
+  "leukocyte lysates": [
+    "Cell"
+  ],
+  "differential expression": [
+    "Molecular Function"
+  ],
+  "erythrocyte precursors": [
+    "Cell"
+  ],
+  "Ro (SS-A) antigen": [
+    "Immunologic Factor"
+  ],
+  "guinea pig": [
+    "Animal"
+  ],
+  "anti-Ro (SS-A)-specific \"sandwich\" enzyme-linked immunosorbent assay (ELISA)": [
+    "Diagnostic Procedure"
+  ],
+  "Western immunoblotting": [
+    "Diagnostic Procedure"
+  ],
+  "Wi-L2 extracts": [
+    "Substance"
+  ],
+  "isoforms": [
+    "Molecular Sequence",
+    "Conceptual Entity"
+  ],
+  "60-kd and 52-kd molecular forms of Ro (SS-A)": [
+    "Molecular Sequence"
+  ],
+  "54-kd molecular form of Ro (SS-A)": [
+    "Molecular Sequence"
+  ],
+  "human erythrocytes": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "tissue distribution": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "unique form of Ro (SS-A)": [
+    "Immunologic Factor"
+  ],
+  "red blood cells": [
+    "Cell"
+  ],
+  "Y RNA": [
+    "Molecular Sequence"
+  ],
+  "adenovirus-infected HeLa cells": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "low titer autoantibodies": [
+    "Immunologic Factor"
+  ],
+  "virally encoded RNA polymerase III products VAI, and VAII": [
+    "Molecular Sequence"
+  ],
+  "host RNA polymerase II": [
+    "Molecular Sequence"
+  ],
+  "U1, U2, U4, U5 and mRNA": [
+    "Molecular Sequence"
+  ],
+  "RNA polymerase III transcription": [
+    "Molecular Function"
+  ],
+  "U6 and pre-tRNAs": [
+    "Molecular Sequence"
+  ],
+  "ribonucleoprotein complexes": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "anti-La (SS-B) antibodies": [
+    "Immunologic Factor"
+  ],
+  "anti-Ro (SS-A) antibodies": [
+    "Immunologic Factor"
+  ],
+  "immunoprecipitation assay": [
+    "Diagnostic Procedure"
+  ],
+  "Ro/SS-A antigen": [
+    "Fully Formed Anatomical Structure",
+    "Protein"
+  ],
+  "human platelets": [
+    "Cell"
+  ],
+  "Ro/SS-A protein": [
+    "Biologically Active Substance"
+  ],
+  "52-kd form": [
+    "Biologically Active Substance"
+  ],
+  "antigenically different": [
+    "Qualitative Concept"
+  ],
+  "hY RNA": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "lymphocytes": [
+    "Cell"
+  ],
+  "hY1": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY3": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY4": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "hY5": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "Ro/SS-A components": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "functional roles": [
+    "Functional Concept"
+  ],
+  "tissue-specific events": [
+    "Physiologic Function"
+  ],
+  "autoimmune response": [
+    "Physiologic Function"
+  ],
+  "species specific": [
+    "Qualitative Concept"
+  ],
+  "Western Blot analysis": [
+    "Diagnostic Procedure"
+  ],
+  "60 kD Ro/SSA molecules": [
+    "Biologically Active Substance"
+  ],
+  "54 kD": [
+    "Biologically Active Substance"
+  ],
+  "antigenic epitopes": [
+    "Qualitative Concept"
+  ],
+  "separate genes": [
+    "Gene or Genome"
+  ],
+  "autoepitope": [
+    "Biologically Active Substance"
+  ],
+  "carboxyl terminus": [
+    "Functional Concept"
+  ],
+  "60.7-kD peptide": [
+    "Biologically Active Substance"
+  ],
+  "newborns": [
+    "Human"
+  ],
+  "complete congenital heart block": [
+    "Acquired Abnormality"
+  ],
+  "immunoreactive fragment": [
+    "Biologically Active Substance"
+  ],
+  "anti-Ro sera": [
+    "Immunologic Factor"
+  ],
+  "amino acid sequence analysis": [
+    "Molecular Sequence"
+  ],
+  "carboxyl end": [
+    "Functional Concept"
+  ],
+  "octapeptides": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "P": [
+    "Quantitative Concept"
+  ],
+  "inhibition studies": [
+    "Research Activity"
+  ],
+  "immunologic link": [
+    "Physiologic Function"
+  ],
+  "viral antigen": [
+    "Biologically Active Substance"
+  ],
+  "anti-Ro binding": [
+    "Immunologic Factor"
+  ],
+  "precipitating anti-Ro autoantibodies": [
+    "Immunologic Factor"
+  ],
+  "Anti-Ro/SS-A antibodies": [
+    "Biologically Active Substance"
+  ],
+  "experimental model": [
+    "Experimental Model of Disease"
+  ],
+  "electrophysiologic": [
+    "Research Device"
+  ],
+  "immunocytochemical": [
+    "Research Device"
+  ],
+  "hydrops fetalis": [
+    "Finding"
+  ],
+  "dexamethasone": [
+    "Clinical Drug"
+  ],
+  "fetal ascites": [
+    "Finding"
+  ],
+  "corticosteroids": [
+    "Clinical Drug"
+  ],
+  "heart failure": [
+    "Pathologic Function"
+  ],
+  "fetal heart rate": [
+    "Physiologic Function"
+  ],
+  "digitalisation": [
+    "Therapeutic or Preventive Procedure"
+  ],
+  "birth asphyxia": [
+    "Pathologic Function"
+  ],
+  "anti-Ro antibodies": [
+    "Biologically Active Substance",
+    "Indicator, Reagent, or Diagnostic Aid",
+    "Immunologic Factor"
+  ],
+  "autoantibody tests": [
+    "Diagnostic Procedure"
+  ],
+  "autoimmune thyroid disease": [
+    "Disease or Syndrome"
+  ],
+  "antinuclear antibody": [
+    "Immunologic Factor"
+  ],
+  "anti-DNA antibodies": [
+    "Immunologic Factor"
+  ],
+  "Hashimoto's thyroiditis": [
+    "Disease or Syndrome"
+  ],
+  "Graves' disease": [
+    "Disease or Syndrome"
+  ],
+  "control patients": [
+    "Population Group"
+  ],
+  "anti-Sm": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "anti-La": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "anti-RNP": [
+    "Biologically Active Substance",
+    "Immunologic Factor"
+  ],
+  "anticardiolipin": [
+    "Biologically Active Substance"
+  ],
+  "rheumatologic symptoms": [
+    "Sign or Symptom"
+  ],
+  "enzyme immunoassay": [
+    "Laboratory Procedure",
+    "Diagnostic Procedure"
+  ],
+  "SS-A": [
+    "Biologically Active Substance"
+  ],
+  "rheumatoid arthritis": [
+    "Disease or Syndrome"
+  ],
+  "miscellaneous rheumatic disorders": [
+    "Disease or Syndrome"
+  ],
+  "Raynaud's phenomenon": [
+    "Sign or Symptom"
+  ],
+  "malar rash": [
+    "Sign or Symptom"
+  ],
+  "serological profile": [
+    "Clinical Attribute"
+  ],
+  "follow-up": [
+    "Health Care Activity"
+  ],
+  "Neonatal lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "multisystem organ involvement": [
+    "Anatomical Structure"
+  ],
+  "anemia": [
+    "Disease or Syndrome"
+  ],
+  "thrombocytopenia": [
+    "Disease or Syndrome"
+  ],
+  "purpura": [
+    "Disease or Syndrome"
+  ],
+  "bloody diarrhea": [
+    "Disease or Syndrome"
+  ],
+  "enzymatic liver abnormalities": [
+    "Organism Attribute"
+  ],
+  "splenomegaly": [
+    "Anatomical Abnormality"
+  ],
+  "pneumonitis": [
+    "Disease or Syndrome"
+  ],
+  "cutaneous rash": [
+    "Sign or Symptom"
+  ],
+  "neonatal lupus erythematosus syndrome": [
+    "Disease or Syndrome"
+  ],
+  "nucleocapsid protein": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "reference human anti-Ro/SSA autoantibody-containing serum": [
+    "Immunologic Factor"
+  ],
+  "overlapping octapeptides": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "protein sequences": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "CAP18": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "lipopolysaccharide binding protein": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "rabbit granulocytes": [
+    "Cell"
+  ],
+  "PCR": [
+    "Molecular Biology Research Technique"
+  ],
+  "bone marrow": [
+    "Anatomical Structure"
+  ],
+  "erythrocytes": [
+    "Cell"
+  ],
+  "LPS": [
+    "Biologically Active Substance"
+  ],
+  "human bacterial permeability increasing protein": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "rabbit LPS binding protein": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "anti-Ro(SSA) antibodies": [
+    "Immunologic Factor"
+  ],
+  "gel double diffusion": [
+    "Laboratory Procedure"
+  ],
+  "sandwich' ELISA": [
+    "Laboratory Procedure"
+  ],
+  "systemic and subacute cutaneous lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "connective tissue disease patients": [
+    "Patient or Disabled Group"
+  ],
+  "human Ro(SSA) antigen epitopes": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "human spleen extract": [
+    "Body Substance"
+  ],
+  "integrin alpha subunits": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "KLGFFKR": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "EDTA": [
+    "Inorganic Chemical"
+  ],
+  "p60": [
+    "Protein"
+  ],
+  "KLRFGFK": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "integrin alpha 3": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "alpha 5 subunits": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "beta 1 subunit": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Ro (SS-A) antigens": [
+    "Protein"
+  ],
+  "acrylamide": [
+    "Organic Chemical"
+  ],
+  "bisacrylamide": [
+    "Organic Chemical"
+  ],
+  "anti-60-kD Ro": [
+    "Immunologic Factor"
+  ],
+  "anti-52-kD Ro": [
+    "Immunologic Factor"
+  ],
+  "cytoplasm": [
+    "Body Space or Junction"
+  ],
+  "nucleus": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "RNAs": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "monospecific human antibodies": [
+    "Immunologic Factor"
+  ],
+  "primate cells": [
+    "Cell"
+  ],
+  "SS-A/Ro-positive": [
+    "Immunologic Factor"
+  ],
+  "Oriental": [
+    "Geographic Area"
+  ],
+  "CHB": [
+    "Congenital Abnormality"
+  ],
+  "sialography": [
+    "Diagnostic Procedure"
+  ],
+  "lip biopsy": [
+    "Diagnostic Procedure"
+  ],
+  "Schirmer's test": [
+    "Diagnostic Procedure"
+  ],
+  "Rose-Bengal test": [
+    "Diagnostic Procedure"
+  ],
+  "Su autoantigen": [
+    "Immunologic Factor"
+  ],
+  "undifferentiated connective tissue disease": [
+    "Disease or Syndrome"
+  ],
+  "calf thymus nuclei": [
+    "Anatomical Structure"
+  ],
+  "CTNE": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "Sm antigen": [
+    "Immunologic Factor"
+  ],
+  "Ro(SS-A)": [
+    "Immunologic Factor"
+  ],
+  "Ro-antigen components": [
+    "Immunologic Factor"
+  ],
+  "pig spleen extract": [
+    "Body Substance"
+  ],
+  "anti-DNA": [
+    "Immunologic Factor"
+  ],
+  "photosensitive cutaneous lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "subacute cutaneous LE": [
+    "Disease or Syndrome"
+  ],
+  "neonatal LE": [
+    "Disease or Syndrome"
+  ],
+  "Ro ribonucleoprotein (RNP) antigenic complex": [
+    "Immunologic Factor"
+  ],
+  "endoplasmic reticulum": [
+    "Cell Component"
+  ],
+  "antithyroid antibodies": [
+    "Biologically Active Substance"
+  ],
+  "antithyroglobulin antibodies": [
+    "Biologically Active Substance"
+  ],
+  "antimicrosomal antibodies": [
+    "Biologically Active Substance"
+  ],
+  "thyroid stimulating hormone": [
+    "Organism Function"
+  ],
+  "controls": [
+    "Population Group"
+  ],
+  "clinical thyroid disease": [
+    "Pathologic Function"
+  ],
+  "hypothyroid": [
+    "Pathologic Function"
+  ],
+  "hyperthyroid": [
+    "Pathologic Function"
+  ],
+  "antithyroglobulin dilutions": [
+    "Biologically Active Substance"
+  ],
+  "antimicrosomal dilutions": [
+    "Biologically Active Substance"
+  ],
+  "older patients": [
+    "Age Group"
+  ],
+  "recombinant 60 kD SS-A/Ro protein": [
+    "Biomedical or Dental Material"
+  ],
+  "Ouchterlony": [
+    "Diagnostic Procedure"
+  ],
+  "HLA class II antigens": [
+    "Immunologic Factor"
+  ],
+  "ribonucleoproteins Ro(SSA)": [
+    "Biologically Active Substance"
+  ],
+  "La(SSB) precipitins": [
+    "Biologically Active Substance"
+  ],
+  "TCR gene": [
+    "Gene or Genome"
+  ],
+  "restriction fragment length polymorphisms": [
+    "Gene or Genome"
+  ],
+  "TCR constant region C beta 1": [
+    "Gene or Genome"
+  ],
+  "TCR beta locus": [
+    "Gene or Genome"
+  ],
+  "disease susceptibility markers": [
+    "Pathologic Function"
+  ],
+  "HLA class II molecules": [
+    "Immunologic Factor"
+  ],
+  "gene interaction": [
+    "Gene or Genome"
+  ],
+  "HLA-DQ1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQ2 alleles": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Harley": [
+    "Human"
+  ],
+  "Reichlin": [
+    "Human"
+  ],
+  "Arnett": [
+    "Human"
+  ],
+  "Alexander": [
+    "Human"
+  ],
+  "Bias": [
+    "Human"
+  ],
+  "Provost": [
+    "Human"
+  ],
+  "alpha beta heterodimer": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "histocompatibility antigens": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "autoimmune response specificity": [
+    "Physiologic Function"
+  ],
+  "Equine herpes virus 1": [
+    "Organism"
+  ],
+  "pseudorabies virus": [
+    "Organism"
+  ],
+  "2'-fluoropyrimidine nucleoside analogs": [
+    "Pharmacologic Substance"
+  ],
+  "FIAC": [
+    "Pharmacologic Substance"
+  ],
+  "FMAU": [
+    "Pharmacologic Substance"
+  ],
+  "FIAU": [
+    "Pharmacologic Substance"
+  ],
+  "herpes simplex virus type 1": [
+    "Virus"
+  ],
+  "EHV-1": [
+    "Virus"
+  ],
+  "PRV": [
+    "Virus"
+  ],
+  "MMdUr-20": [
+    "Virus"
+  ],
+  "dTKs": [
+    "Enzyme"
+  ],
+  "deoxythymidylate kinase": [
+    "Enzyme"
+  ],
+  "E-5-(2-bromovinyl-2'-deoxyuridine": [
+    "Pharmacologic Substance"
+  ],
+  "protein heterogeneity": [
+    "Protein"
+  ],
+  "human Ro/SSA ribonucleoproteins": [
+    "Protein"
+  ],
+  "52-kD Ro/SSA autoantigens": [
+    "Immunologic Factor"
+  ],
+  "cDNA clones": [
+    "Molecular Sequence",
+    "Gene or Genome"
+  ],
+  "lambda gt11 human thymocyte cDNA library": [
+    "Biomedical Occupation or Discipline"
+  ],
+  "lupus patient sera": [
+    "Patient or Disabled Group"
+  ],
+  "affinity-purified antibodies": [
+    "Immunologic Factor"
+  ],
+  "isopropyl-beta-D-thiogalactopyranoside-induced proteins": [
+    "Biomedical or Dental Material"
+  ],
+  "Western blots": [
+    "Diagnostic Procedure"
+  ],
+  "Ro/SSA hY RNAs": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "zinc finger": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "leucine zipper motif": [
+    "Amino Acid, Peptide, or Protein",
+    "Functional Concept"
+  ],
+  "human rfp": [
+    "Gene or Genome"
+  ],
+  "mouse rpt-1": [
+    "Gene or Genome"
+  ],
+  "open reading frame": [
+    "Gene or Genome"
+  ],
+  "nucleotides": [
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "amino acid polypeptide": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "structural and functional properties": [
+    "Physiologic Function"
+  ],
+  "autoantigen": [
+    "Immunologic Factor"
+  ],
+  "Ro": [
+    "Body Substance"
+  ],
+  "La": [
+    "Body Substance"
+  ],
+  "neonatal lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "anti-La antibodies": [
+    "Immunologic Factor"
+  ],
+  "cutaneous NLE": [
+    "Disease or Syndrome"
+  ],
+  "woman": [
+    "Human"
+  ],
+  "children": [
+    "Human"
+  ],
+  "human HepG2": [
+    "Cell"
+  ],
+  "MOLT-4 cell cDNA libraries": [
+    "Cell"
+  ],
+  "SS-A/Ro autoantibodies": [
+    "Immunologic Factor"
+  ],
+  "subacute cutaneous lupus": [
+    "Disease or Syndrome"
+  ],
+  "52-kD component": [
+    "Biologically Active Substance"
+  ],
+  "zinc-finger domains": [
+    "Functional Concept"
+  ],
+  "DNA/RNA": [
+    "Molecular Function"
+  ],
+  "human ret transforming protein": [
+    "Biologically Active Substance"
+  ],
+  "mouse T cell gene expression down-regulatory protein rpt-1": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "Ro and La antigens": [
+    "Body Substance"
+  ],
+  "anti-La idiotype": [
+    "Immunologic Factor"
+  ],
+  "myocardial fibres": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "autoimmune disease": [
+    "Disease or Syndrome"
+  ],
+  "placenta": [
+    "Anatomical Structure"
+  ],
+  "fetal cardiac tissue": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "anti-idiotype": [
+    "Immunologic Factor"
+  ],
+  "complement": [
+    "Biologically Active Substance"
+  ],
+  "Class II antigen": [
+    "Biologically Active Substance"
+  ],
+  "HLA-DQA1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQB1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Ro (SS-A)": [
+    "Biologically Active Substance"
+  ],
+  "La (SS-B)": [
+    "Biologically Active Substance"
+  ],
+  "DQ alleles": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "RFLP": [
+    "Research Activity"
+  ],
+  "sequence-specific oligonucleotide typing": [
+    "Research Activity"
+  ],
+  "Caucasians": [
+    "Population Group"
+  ],
+  "American blacks": [
+    "Population Group"
+  ],
+  "heterozygosity": [
+    "Genetic Function"
+  ],
+  "DQw2.1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQw6": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQw1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "269 normal race-matched controls": [
+    "Population Group"
+  ],
+  "80 anti-Ro negative SLE/Sjögren's syndrome patients": [
+    "Disease or Syndrome"
+  ],
+  "DQA1": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQB1 alleles": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQA1*0501": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "DQB1*0201": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "HLA-DQB1*0302": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "HLA-DQA1*0401": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "glutamine residue": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "position 34": [
+    "Spatial Concept"
+  ],
+  "leucine": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "position 26": [
+    "Spatial Concept"
+  ],
+  "autoantibody response": [
+    "Immunologic Factor"
+  ],
+  "gene dosage": [
+    "Genetic Function"
+  ],
+  "keratoconjunctivitis sicca": [
+    "Disease or Syndrome"
+  ],
+  "tear osmolarity": [
+    "Physiologic Function"
+  ],
+  "Schirmer tear test": [
+    "Diagnostic Procedure"
+  ],
+  "parotid salivary flow": [
+    "Physiologic Function"
+  ],
+  "RF": [
+    "Immunologic Factor"
+  ],
+  "keratoconjunctivitis sicca patients": [
+    "Patient or Disabled Group"
+  ],
+  "dry-eye symptoms": [
+    "Sign or Symptom"
+  ],
+  "dry mouth": [
+    "Sign or Symptom"
+  ],
+  "arthritis": [
+    "Disease or Syndrome"
+  ],
+  "nuclear antigens": [
+    "Biologically Active Substance"
+  ],
+  "indirect immunofluorescence test": [
+    "Diagnostic Procedure"
+  ],
+  "anti-SS-A/Ro": [
+    "Immunologic Factor"
+  ],
+  "lupus erythematosus": [
+    "Disease or Syndrome"
+  ],
+  "appropriate substrate cells": [
+    "Cell"
+  ],
+  "SS-A particle": [
+    "Biologically Active Substance"
+  ],
+  "polypeptide components": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "52 kd": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "60 kd": [
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "immunodiffusion analysis": [
+    "Diagnostic Procedure"
+  ],
+  "primary SS": [
+    "Disease or Syndrome"
+  ],
+  "Western blotting studies": [
+    "Research Activity"
+  ],
+  "ELISA system": [
+    "Medical Device"
+  ],
+  "6 autoantibodies": [
+    "Biologically Active Substance"
+  ],
+  "RNP/Sm": [
+    "Biologically Active Substance"
+  ],
+  "SSA": [
+    "Biologically Active Substance"
+  ],
+  "SSB": [
+    "Biologically Active Substance"
+  ],
+  "ELISA panel assay": [
+    "Diagnostic Procedure"
+  ],
+  "antigens": [
+    "Biologically Active Substance"
+  ],
+  "related conditions": [
+    "Disease or Syndrome"
+  ],
+  "disease controls": [
+    "Population Group"
+  ],
+  "fluorescent ANA": [
+    "Diagnostic Procedure"
+  ],
+  "healthy controls": [
+    "Population Group"
+  ],
+  "false positive": [
+    "Finding"
+  ],
+  "standardization": [
+    "Research Activity"
+  ],
+  "patient management": [
+    "Therapeutic or Preventive Procedure"
+  ],
+  "antibodies": [
+    "Biologically Active Substance"
+  ],
+  "SS-A/Ro": [
+    "Biologically Active Substance"
+  ],
+  "SS-B/La": [
+    "Biologically Active Substance"
+  ],
+  "ultraviolet light": [
+    "Physical Object"
+  ],
+  "photosensitive cutaneous lupus": [
+    "Disease or Syndrome"
+  ],
+  "non-histone nucleoprotein antigens": [
+    "Biologically Active Substance"
+  ],
+  "autoantibodies to the non-histone nucleoprotein antigens": [
+    "Biologically Active Substance"
+  ],
+  "immunologic damage": [
+    "Pathologic Function"
+  ],
+  "monospecific antiserum probes": [
+    "Diagnostic Procedure"
+  ],
+  "flow-cytometry analysis": [
+    "Diagnostic Procedure"
+  ],
+  "UVB light": [
+    "Physical Object"
+  ],
+  "dose-dependent pattern": [
+    "Quantitative Concept"
+  ],
+  "standard immunofluorescence techniques": [
+    "Diagnostic Procedure"
+  ],
+  "Hydroxyurea": [
+    "Pharmacologic Substance"
+  ],
+  "Tunicamycin": [
+    "Pharmacologic Substance"
+  ],
+  "glycosylation of proteins": [
+    "Molecular Function"
+  ],
+  "cell-cycle independent": [
+    "Functional Concept"
+  ],
+  "suction blister epidermal roofs": [
+    "Anatomical Structure"
+  ],
+  "U1RNP": [
+    "Biologically Active Substance"
+  ],
+  "antibody dependent keratinocyte damage": [
+    "Pathologic Function"
+  ]
+}
