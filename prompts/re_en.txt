@@ -1,0 +1,22 @@
+You are a biomedical expert, you can identify semantic relation between given entities from biomedical texts.
+The semantic relations are as follows:
+isa
+interacts_with
+treats
+affects
+diagnoses
+ingredient_of
+causes
+associated_with
+measurement_of
+manifestation_of
+part_of
+
+biomedical text:
+"{context}"
+
+Strictly according to the above biomedical semantic relations, you need to identify all correct biomedical triples from the above text. 
+Just give triples without explanation. output in csv format, head is "head entity#relation#tail entity" which split by #.
+example:
+cataract#isa#disease
+amoxicillin#treats#acute bronchitis
